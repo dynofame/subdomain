@@ -1,1386 +1,424 @@
-sudo subzy -targets 1688.com.txt --hide_fails
-sudo subzy -targets 18f.gov.txt --hide_fails
-sudo subzy -targets 4cdn.org.txt --hide_fails
-sudo subzy -targets 4chan.org.txt --hide_fails
-sudo subzy -targets 8x8.com.txt --hide_fails
-sudo subzy -targets 8x8.spot.txt --hide_fails
-sudo subzy -targets 8x8.vc.txt --hide_fails
-sudo subzy -targets 9lives.be.txt --hide_fails
-sudo subzy -targets accengage.net.txt --hide_fails
-sudo subzy -targets accountkit.com.txt --hide_fails
-sudo subzy -targets achmea.com.au.txt --hide_fails
-sudo subzy -targets achmea.nl.txt --hide_fails
-sudo subzy -targets acorns.com.txt --hide_fails
-sudo subzy -targets actify.nl.txt --hide_fails
-sudo subzy -targets adafruit.com.txt --hide_fails
-sudo subzy -targets adafruitdaily.com.txt --hide_fails
-sudo subzy -targets aetkasmart.de.txt --hide_fails
-sudo subzy -targets aips-internal.com.txt --hide_fails
-sudo subzy -targets aips-services.com.txt --hide_fails
-sudo subzy -targets airbnb.app.txt --hide_fails
-sudo subzy -targets airbnb-aws.com.txt --hide_fails
-sudo subzy -targets airbnbcitizen.com.txt --hide_fails
-sudo subzy -targets airbnb.com.txt --hide_fails
-sudo subzy -targets airmap.com.txt --hide_fails
-sudo subzy -targets airship.com.txt --hide_fails
-sudo subzy -targets airship.eu.txt --hide_fails
-sudo subzy -targets airtable.com.txt --hide_fails
-sudo subzy -targets aiven.io.txt --hide_fails
-sudo subzy -targets alditalk-kundenbetreuung.de.txt --hide_fails
-sudo subzy -targets algolia.com.txt --hide_fails
-sudo subzy -targets algolianet.com.txt --hide_fails
-sudo subzy -targets algolia.net.txt --hide_fails
-sudo subzy -targets alibabacloud.com.txt --hide_fails
-sudo subzy -targets alibaba.com.txt --hide_fails
-sudo subzy -targets alibaba-inc.com.txt --hide_fails
-sudo subzy -targets aliexpress.com.txt --hide_fails
-sudo subzy -targets alimama.com.txt --hide_fails
-sudo subzy -targets aliyun.com.txt --hide_fails
-sudo subzy -targets aliyun-inc.com.txt --hide_fails
-sudo subzy -targets allegrosandbox.pl.txt --hide_fails
-sudo subzy -targets amazon.co.jp.txt --hide_fails
-sudo subzy -targets amazon.com.txt --hide_fails
-sudo subzy -targets amazon.co.uk.txt --hide_fails
-sudo subzy -targets amazon.de.txt --hide_fails
-sudo subzy -targets amazon.fr.txt --hide_fails
-sudo subzy -targets amitree.com.txt --hide_fails
-sudo subzy -targets am.ru.txt --hide_fails
-sudo subzy -targets app.mobile.txt --hide_fails
-sudo subzy -targets apptimize.com.txt --hide_fails
-sudo subzy -targets apptimize.eu.txt --hide_fails
-sudo subzy -targets apsis.com.txt --hide_fails
-sudo subzy -targets areeba.com.gn.txt --hide_fails
-sudo subzy -targets arkoselabs.com.txt --hide_fails
-sudo subzy -targets arlo.com.txt --hide_fails
-sudo subzy -targets asnbank.nl.txt --hide_fails
-sudo subzy -targets astaro.at.txt --hide_fails
-sudo subzy -targets astaro.ch.txt --hide_fails
-sudo subzy -targets astaro.com.txt --hide_fails
-sudo subzy -targets astaro.de.txt --hide_fails
-sudo subzy -targets astaro.info.txt --hide_fails
-sudo subzy -targets astaro.net.txt --hide_fails
-sudo subzy -targets astaro.org.txt --hide_fails
-sudo subzy -targets astrogaming.com.txt --hide_fails
-sudo subzy -targets atairbnb.com.txt --hide_fails
-sudo subzy -targets atlassian.com.txt --hide_fails
-sudo subzy -targets atlassian.net.txt --hide_fails
-sudo subzy -targets atspotify.com.txt --hide_fails
-sudo subzy -targets att.com.txt --hide_fails
-sudo subzy -targets auspost.com.au.txt --hide_fails
-sudo subzy -targets authy.com.txt --hide_fails
-sudo subzy -targets auvik.com.txt --hide_fails
-sudo subzy -targets averoachmea.nl.txt --hide_fails
-sudo subzy -targets avito.ru.txt --hide_fails
-sudo subzy -targets ayco.com.txt --hide_fails
-sudo subzy -targets ayyildiz.de.txt --hide_fails
-sudo subzy -targets backblazeb2.com.txt --hide_fails
-sudo subzy -targets backblaze.com.txt --hide_fails
-sudo subzy -targets backstage.io.txt --hide_fails
-sudo subzy -targets backtrack-linux.org.txt --hide_fails
-sudo subzy -targets badoocdn.com.txt --hide_fails
-sudo subzy -targets badoo.com.txt --hide_fails
-sudo subzy -targets base.be.txt --hide_fails
-sudo subzy -targets base.de.txt --hide_fails
-sudo subzy -targets basicattentiontoken.org.txt --hide_fails
-sudo subzy -targets bbpress.org.txt --hide_fails
-sudo subzy -targets bentley.com.txt --hide_fails
-sudo subzy -targets berush.com.txt --hide_fails
-sudo subzy -targets betfair.com.txt --hide_fails
-sudo subzy -targets betfair.es.txt --hide_fails
-sudo subzy -targets betfair.exchange.txt --hide_fails
-sudo subzy -targets betfair.it.txt --hide_fails
-sudo subzy -targets betfair.ro.txt --hide_fails
-sudo subzy -targets betfair.se.txt --hide_fails
-sudo subzy -targets better.com.txt --hide_fails
-sudo subzy -targets betterscience.org.txt --hide_fails
-sudo subzy -targets bezcenneniespodzianki.pl.txt --hide_fails
-sudo subzy -targets bigbank.ee.txt --hide_fails
-sudo subzy -targets bigbank.eu.txt --hide_fails
-sudo subzy -targets bigbank.fi.txt --hide_fails
-sudo subzy -targets bigbank.lt.txt --hide_fails
-sudo subzy -targets bigbank.lv.txt --hide_fails
-sudo subzy -targets bimeanalytics.com.txt --hide_fails
-sudo subzy -targets bime.io.txt --hide_fails
-sudo subzy -targets binance.com.txt --hide_fails
-sudo subzy -targets binance.co.ug.txt --hide_fails
-sudo subzy -targets binance.je.txt --hide_fails
-sudo subzy -targets binance.org.txt --hide_fails
-sudo subzy -targets binance.sg.txt --hide_fails
-sudo subzy -targets binance.us.txt --hide_fails
-sudo subzy -targets binary.com.txt --hide_fails
-sudo subzy -targets bingo.com.txt --hide_fails
-sudo subzy -targets bitaccessbtm.com.txt --hide_fails
-sudo subzy -targets bitdefender.com.txt --hide_fails
-sudo subzy -targets bitdefender.net.txt --hide_fails
-sudo subzy -targets bitdiscovery.com.txt --hide_fails
-sudo subzy -targets bitgo.com.txt --hide_fails
-sudo subzy -targets bitmex.com.txt --hide_fails
-sudo subzy -targets bitmoji.com.txt --hide_fails
-sudo subzy -targets bitstrips.com.txt --hide_fails
-sudo subzy -targets bitwala.app.txt --hide_fails
-sudo subzy -targets bitwala.com.txt --hide_fails
-sudo subzy -targets bitwarden.com.txt --hide_fails
-sudo subzy -targets blackhistoryisnow.com.txt --hide_fails
-sudo subzy -targets blau.de.txt --hide_fails
-sudo subzy -targets blauworld.de.txt --hide_fails
-sudo subzy -targets blend.com.txt --hide_fails
-sudo subzy -targets blendlabs.com.txt --hide_fails
-sudo subzy -targets blgwonen.nl.txt --hide_fails
-sudo subzy -targets blockchain.com.txt --hide_fails
-sudo subzy -targets blockchain.info.txt --hide_fails
-sudo subzy -targets blogger.com.txt --hide_fails
-sudo subzy -targets bluejeans.com.txt --hide_fails
-sudo subzy -targets bluesnap.com.txt --hide_fails
-sudo subzy -targets bluetarp.com.txt --hide_fails
-sudo subzy -targets bmw.de.txt --hide_fails
-sudo subzy -targets bmw-motorrad.de.txt --hide_fails
-sudo subzy -targets bokun.com.txt --hide_fails
-sudo subzy -targets bolstr.com.txt --hide_fails
-sudo subzy -targets bookingholdings.com.txt --hide_fails
-sudo subzy -targets boomi.com.txt --hide_fails
-sudo subzy -targets booth.pm.txt --hide_fails
-sudo subzy -targets boozt.com.txt --hide_fails
-sudo subzy -targets booztlet.com.txt --hide_fails
-sudo subzy -targets bplans.com.txt --hide_fails
-sudo subzy -targets braintree-api.com.txt --hide_fails
-sudo subzy -targets braintreegateway.com.txt --hide_fails
-sudo subzy -targets braintreepayments.com.txt --hide_fails
-sudo subzy -targets braintree.tools.txt --hide_fails
-sudo subzy -targets brave.com.txt --hide_fails
-sudo subzy -targets breadcrumb.com.txt --hide_fails
-sudo subzy -targets briefe.io.txt --hide_fails
-sudo subzy -targets buddypress.org.txt --hide_fails
-sudo subzy -targets buffer.com.txt --hide_fails
-sudo subzy -targets bugbountyguide.com.txt --hide_fails
-sudo subzy -targets bugcrowd.com.txt --hide_fails
-sudo subzy -targets bugpoc.com.txt --hide_fails
-sudo subzy -targets bugpoc.ninja.txt --hide_fails
-sudo subzy -targets buildseries.com.txt --hide_fails
-sudo subzy -targets builtbygirls.com.txt --hide_fails
-sudo subzy -targets bunq.com.txt --hide_fails
-sudo subzy -targets butlerfortrello.com.txt --hide_fails
-sudo subzy -targets byairbnb.com.txt --hide_fails
-sudo subzy -targets byspotify.com.txt --hide_fails
-sudo subzy -targets byteoversea.com.txt --hide_fails
-sudo subzy -targets cafebazaar.ir.txt --hide_fails
-sudo subzy -targets caffeine.tv.txt --hide_fails
-sudo subzy -targets cainbrothers.com.txt --hide_fails
-sudo subzy -targets cainiao.com.txt --hide_fails
-sudo subzy -targets callstats.io.txt --hide_fails
-sudo subzy -targets canon.com.txt --hide_fails
-sudo subzy -targets canva.cn.txt --hide_fails
-sudo subzy -targets canva.com.txt --hide_fails
-sudo subzy -targets capitalone360.com.txt --hide_fails
-sudo subzy -targets capitalonebank.com.txt --hide_fails
-sudo subzy -targets capitalonecards.com.txt --hide_fails
-sudo subzy -targets capitalonecareers.co.uk.txt --hide_fails
-sudo subzy -targets capitalone.ca.txt --hide_fails
-sudo subzy -targets capitalone.com.txt --hide_fails
-sudo subzy -targets capitalone.co.uk.txt --hide_fails
-sudo subzy -targets capitalone.tz.txt --hide_fails
-sudo subzy -targets cashier.ru.txt --hide_fails
-sudo subzy -targets cash.me.txt --hide_fails
-sudo subzy -targets casinohuone.com.txt --hide_fails
-sudo subzy -targets casper.com.txt --hide_fails
-sudo subzy -targets casper.tools.txt --hide_fails
-sudo subzy -targets cbhq.net.txt --hide_fails
-sudo subzy -targets centraalbeheer.nl.txt --hide_fails
-sudo subzy -targets centrify.com.txt --hide_fails
-sudo subzy -targets certsy.com.txt --hide_fails
-sudo subzy -targets certsynonprod.com.txt --hide_fails
-sudo subzy -targets cfptime.org.txt --hide_fails
-sudo subzy -targets chain.link.txt --hide_fails
-sudo subzy -targets challonge.com.txt --hide_fails
-sudo subzy -targets chaturbate.com.txt --hide_fails
-sudo subzy -targets checkpoint.com.txt --hide_fails
-sudo subzy -targets cirrusinsight.com.txt --hide_fails
-sudo subzy -targets cirruspath.com.txt --hide_fails
-sudo subzy -targets cisco.com.txt --hide_fails
-sudo subzy -targets citypossible.com.txt --hide_fails
-sudo subzy -targets clario.co.txt --hide_fails
-sudo subzy -targets claritymoney.com.txt --hide_fails
-sudo subzy -targets clausestaging.com.txt --hide_fails
-sudo subzy -targets clickup.com.txt --hide_fails
-sudo subzy -targets clio.com.txt --hide_fails
-sudo subzy -targets closetheplaygap.com.txt --hide_fails
-sudo subzy -targets cloudflareaccess.com.txt --hide_fails
-sudo subzy -targets cloudflare.com.txt --hide_fails
-sudo subzy -targets cloudflareworkers.com.txt --hide_fails
-sudo subzy -targets cloud.gov.txt --hide_fails
-sudo subzy -targets cloudinary.com.txt --hide_fails
-sudo subzy -targets cloudways.com.txt --hide_fails
-sudo subzy -targets cobinhood.com.txt --hide_fails
-sudo subzy -targets cobinhood.exchange.txt --hide_fails
-sudo subzy -targets coda.io.txt --hide_fails
-sudo subzy -targets codefi.network.txt --hide_fails
-sudo subzy -targets code.gov.txt --hide_fails
-sudo subzy -targets codeigniter.com.txt --hide_fails
-sudo subzy -targets cognitiveperformer.com.txt --hide_fails
-sudo subzy -targets coinbase.com.txt --hide_fails
-sudo subzy -targets coinbase.pro.txt --hide_fails
-sudo subzy -targets coloros.com.txt --hide_fails
-sudo subzy -targets comcast.com.txt --hide_fails
-sudo subzy -targets companyhub.com.txt --hide_fails
-sudo subzy -targets connectis.com.txt --hide_fails
-sudo subzy -targets constantcontact.com.txt --hide_fails
-sudo subzy -targets contact-sys.com.txt --hide_fails
-sudo subzy -targets converse.com.txt --hide_fails
-sudo subzy -targets copper.com.txt --hide_fails
-sudo subzy -targets counter-strike.net.txt --hide_fails
-sudo subzy -targets coursera.org.txt --hide_fails
-sudo subzy -targets c-point.be.txt --hide_fails
-sudo subzy -targets crawlera.com.txt --hide_fails
-sudo subzy -targets creditkarma.ca.txt --hide_fails
-sudo subzy -targets creditkarma.com.txt --hide_fails
-sudo subzy -targets criticalstack.com.txt --hide_fails
-sudo subzy -targets crowdin.com.txt --hide_fails
-sudo subzy -targets crowdstrike.com.txt --hide_fails
-sudo subzy -targets crowdstrike.org.txt --hide_fails
-sudo subzy -targets cruisecritic.com.txt --hide_fails
-sudo subzy -targets crypto.com.txt --hide_fails
-sudo subzy -targets cryptography.io.txt --hide_fails
-sudo subzy -targets cryptojourney.com.txt --hide_fails
-sudo subzy -targets ct0.app.txt --hide_fails
-sudo subzy -targets curve.app.txt --hide_fails
-sudo subzy -targets curve.com.txt --hide_fails
-sudo subzy -targets cuv-prod.app.txt --hide_fails
-sudo subzy -targets cuvva.com.txt --hide_fails
-sudo subzy -targets cuvva.co.txt --hide_fails
-sudo subzy -targets cyberoam.com.txt --hide_fails
-sudo subzy -targets d2evh2mef3r450.cloudfront.net.txt --hide_fails
-sudo subzy -targets dailymotionadvertising.com.txt --hide_fails
-sudo subzy -targets dailymotion.com.txt --hide_fails
-sudo subzy -targets dashlane.com.txt --hide_fails
-sudo subzy -targets data.gov.txt --hide_fails
-sudo subzy -targets datastax.com.txt --hide_fails
-sudo subzy -targets d-cd.net.txt --hide_fails
-sudo subzy -targets defriesland.nl.txt --hide_fails
-sudo subzy -targets delight.im.txt --hide_fails
-sudo subzy -targets deliveroo-data.io.txt --hide_fails
-sudo subzy -targets deliveroo-data.net.txt --hide_fails
-sudo subzy -targets deliveroo-data-test.io.txt --hide_fails
-sudo subzy -targets deliveroo-streams.net.txt --hide_fails
-sudo subzy -targets delivery-club.ru.txt --hide_fails
-sudo subzy -targets dell.com.txt --hide_fails
-sudo subzy -targets dellemc.com.txt --hide_fails
-sudo subzy -targets delltechnologies.com.txt --hide_fails
-sudo subzy -targets deribit.com.txt --hide_fails
-sudo subzy -targets devmaximum.com.txt --hide_fails
-sudo subzy -targets devolksbank.nl.txt --hide_fails
-sudo subzy -targets didichuxing.com.txt --hide_fails
-sudo subzy -targets didiglobal.com.txt --hide_fails
-sudo subzy -targets didiyun.com.txt --hide_fails
-sudo subzy -targets digitalocean.com.txt --hide_fails
-sudo subzy -targets digitaloceanspaces.com.txt --hide_fails
-sudo subzy -targets dingtalk.com.txt --hide_fails
-sudo subzy -targets directly.com.txt --hide_fails
-sudo subzy -targets discord.com.txt --hide_fails
-sudo subzy -targets djelectro.me.txt --hide_fails
-sudo subzy -targets djicdn.com.txt --hide_fails
-sudo subzy -targets dji.com.txt --hide_fails
-sudo subzy -targets dji.net.txt --hide_fails
-sudo subzy -targets djiservice.org.txt --hide_fails
-sudo subzy -targets djivideos.com.txt --hide_fails
-sudo subzy -targets dmcdn.net.txt --hide_fails
-sudo subzy -targets dm.gg.txt --hide_fails
-sudo subzy -targets dnspod.cn.txt --hide_fails
-sudo subzy -targets doaction.org.txt --hide_fails
-sudo subzy -targets doesmydogmissme.com.txt --hide_fails
-sudo subzy -targets donationalerts.com.txt --hide_fails
-sudo subzy -targets donationalerts.ru.txt --hide_fails
-sudo subzy -targets dota2.com.txt --hide_fails
-sudo subzy -targets dovecot.org.txt --hide_fails
-sudo subzy -targets drive2.ru.txt --hide_fails
-sudo subzy -targets driveuconnect.com.txt --hide_fails
-sudo subzy -targets driveuconnect.eu.txt --hide_fails
-sudo subzy -targets dropbox.com.txt --hide_fails
-sudo subzy -targets dropboxforum.com.txt --hide_fails
-sudo subzy -targets duckduckgo.com.txt --hide_fails
-sudo subzy -targets dxi.eu.txt --hide_fails
-sudo subzy -targets dynoquant.com.txt --hide_fails
-sudo subzy -targets easycontactnow.com.txt --hide_fails
-sudo subzy -targets eccouncil.org.txt --hide_fails
-sudo subzy -targets ecobee.com.txt --hide_fails
-sudo subzy -targets edmodo.com.txt --hide_fails
-sudo subzy -targets edoverflow.com.txt --hide_fails
-sudo subzy -targets einfachprepaid.de.txt --hide_fails
-sudo subzy -targets eleganthotels.com.txt --hide_fails
-sudo subzy -targets elvenar.com.txt --hide_fails
-sudo subzy -targets emc.com.txt --hide_fails
-sudo subzy -targets endlcdn.site.txt --hide_fails
-sudo subzy -targets endomondo.com.txt --hide_fails
-sudo subzy -targets engadget.com.txt --hide_fails
-sudo subzy -targets engelvoelkers.com.txt --hide_fails
-sudo subzy -targets enspotify.com.txt --hide_fails
-sudo subzy -targets eobot.com.txt --hide_fails
-sudo subzy -targets equalizerproject.com.txt --hide_fails
-sudo subzy -targets eslint.org.txt --hide_fails
-sudo subzy -targets etsy.com.txt --hide_fails
-sudo subzy -targets etsypayments.com.txt --hide_fails
-sudo subzy -targets eurekosigorta.com.tr.txt --hide_fails
-sudo subzy -targets eurocross.com.txt --hide_fails
-sudo subzy -targets eventbrite.com.txt --hide_fails
-sudo subzy -targets evernote.com.txt --hide_fails
-sudo subzy -targets everynoise.com.txt --hide_fails
-sudo subzy -targets every.org.txt --hide_fails
-sudo subzy -targets evonik.com.txt --hide_fails
-sudo subzy -targets exchangemarketplace.com.txt --hide_fails
-sudo subzy -targets exodus.io.txt --hide_fails
-sudo subzy -targets exploit-db.com.txt --hide_fails
-sudo subzy -targets expressobutiolem.onion.txt --hide_fails
-sudo subzy -targets expressvpn.com.txt --hide_fails
-sudo subzy -targets extraordinariesonthemic.com.txt --hide_fails
-sudo subzy -targets faa.st.txt --hide_fails
-sudo subzy -targets facebook.com.txt --hide_fails
-sudo subzy -targets fair.com.txt --hide_fails
-sudo subzy -targets fair.engineering.txt --hide_fails
-sudo subzy -targets falcon-sandbox.com.txt --hide_fails
-sudo subzy -targets fanduel.com.txt --hide_fails
-sudo subzy -targets fanduel.design.txt --hide_fails
-sudo subzy -targets fb.com.txt --hide_fails
-sudo subzy -targets fb.me.txt --hide_fails
-sudo subzy -targets fbto.nl.txt --hide_fails
-sudo subzy -targets fdbox.net.txt --hide_fails
-sudo subzy -targets fedramp.gov.txt --hide_fails
-sudo subzy -targets fig.co.txt --hide_fails
-sudo subzy -targets files.com.txt --hide_fails
-sudo subzy -targets filezilla-project.org.txt --hide_fails
-sudo subzy -targets finra.org.txt --hide_fails
-sudo subzy -targets first.org.txt --hide_fails
-sudo subzy -targets fitbit.com.txt --hide_fails
-sudo subzy -targets fitstar.com.txt --hide_fails
-sudo subzy -targets flickr.com.txt --hide_fails
-sudo subzy -targets flipkart.com.txt --hide_fails
-sudo subzy -targets flocktory.com.txt --hide_fails
-sudo subzy -targets fonic.de.txt --hide_fails
-sudo subzy -targets fonic-mobile.de.txt --hide_fails
-sudo subzy -targets ford.com.txt --hide_fails
-sudo subzy -targets forecastapp.com.txt --hide_fails
-sudo subzy -targets forescoutcloud.net.txt --hide_fails
-sudo subzy -targets forescout.com.txt --hide_fails
-sudo subzy -targets forgeofempires.com.txt --hide_fails
-sudo subzy -targets fortmatic.com.txt --hide_fails
-sudo subzy -targets foxycart.com.txt --hide_fails
-sudo subzy -targets freebasics.com.txt --hide_fails
-sudo subzy -targets freepeopledirectory.com.txt --hide_fails
-sudo subzy -targets freshcaller.com.txt --hide_fails
-sudo subzy -targets freshchat.com.txt --hide_fails
-sudo subzy -targets freshconnect.io.txt --hide_fails
-sudo subzy -targets freshdesk.com.txt --hide_fails
-sudo subzy -targets freshmarketer.com.txt --hide_fails
-sudo subzy -targets freshping.io.txt --hide_fails
-sudo subzy -targets freshsales.io.txt --hide_fails
-sudo subzy -targets freshservice.com.txt --hide_fails
-sudo subzy -targets freshworks.com.txt --hide_fails
-sudo subzy -targets fuzzing-project.org.txt --hide_fails
-sudo subzy -targets fw-notify.net.txt --hide_fails
-sudo subzy -targets gamepind.com.txt --hide_fails
-sudo subzy -targets gcr.io.txt --hide_fails
-sudo subzy -targets geistguest.com.txt --hide_fails
-sudo subzy -targets genasys.tech.txt --hide_fails
-sudo subzy -targets gener8ads.com.txt --hide_fails
-sudo subzy -targets get8x8.com.txt --hide_fails
-sudo subzy -targets getbambu.com.txt --hide_fails
-sudo subzy -targets getharvest.com.txt --hide_fails
-sudo subzy -targets getmoneytree.com.txt --hide_fails
-sudo subzy -targets gilacorp.com.txt --hide_fails
-sudo subzy -targets gimlet.design.txt --hide_fails
-sudo subzy -targets gimletmedia.com.txt --hide_fails
-sudo subzy -targets githubapp.com.txt --hide_fails
-sudo subzy -targets github.com.txt --hide_fails
-sudo subzy -targets github.net.txt --hide_fails
-sudo subzy -targets gitlab.com.txt --hide_fails
-sudo subzy -targets gitter.im.txt --hide_fails
-sudo subzy -targets glassdoor.app.txt --hide_fails
-sudo subzy -targets glassdoor.com.txt --hide_fails
-sudo subzy -targets global.shop.txt --hide_fails
-sudo subzy -targets gmelius.com.txt --hide_fails
-sudo subzy -targets gnip.com.txt --hide_fails
-sudo subzy -targets gojekapi.com.txt --hide_fails
-sudo subzy -targets gojek.co.id.txt --hide_fails
-sudo subzy -targets goldman.com.txt --hide_fails
-sudo subzy -targets goldmansachs.com.txt --hide_fails
-sudo subzy -targets goldmansachsindices.com.txt --hide_fails
-sudo subzy -targets goodrx.com.txt --hide_fails
-sudo subzy -targets google.com.txt --hide_fails
-sudo subzy -targets grab.careers.txt --hide_fails
-sudo subzy -targets grab.com.txt --hide_fails
-sudo subzy -targets grab.co.txt --hide_fails
-sudo subzy -targets grabpay.com.txt --hide_fails
-sudo subzy -targets grabtaxi.com.txt --hide_fails
-sudo subzy -targets grammarly.ai.txt --hide_fails
-sudo subzy -targets grammarly.com.txt --hide_fails
-sudo subzy -targets grammarly.io.txt --hide_fails
-sudo subzy -targets grammarly.net.txt --hide_fails
-sudo subzy -targets greenhouse.events.txt --hide_fails
-sudo subzy -targets greenhouse.io.txt --hide_fails
-sudo subzy -targets grepolis.com.txt --hide_fails
-sudo subzy -targets grofers.com.txt --hide_fails
-sudo subzy -targets growth.org.txt --hide_fails
-sudo subzy -targets gsa.gov.txt --hide_fails
-sudo subzy -targets gsam.com.txt --hide_fails
-sudo subzy -targets gs.com.txt --hide_fails
-sudo subzy -targets gspublishing.com.txt --hide_fails
-sudo subzy -targets gsselect.com.txt --hide_fails
-sudo subzy -targets gusto-demo.com.txt --hide_fails
-sudo subzy -targets h1ctf.com.txt --hide_fails
-sudo subzy -targets h2os.com.txt --hide_fails
-sudo subzy -targets hacker101.com.txt --hide_fails
-sudo subzy -targets hackerone.com.txt --hide_fails
-sudo subzy -targets hackerone-ext-content.com.txt --hide_fails
-sudo subzy -targets hackerone.net.txt --hide_fails
-sudo subzy -targets hackerone-user-content.com.txt --hide_fails
-sudo subzy -targets handmade.com.txt --hide_fails
-sudo subzy -targets harmonyremote.com.txt --hide_fails
-sudo subzy -targets harvestapp.com.txt --hide_fails
-sudo subzy -targets hboeck.de.txt --hide_fails
-sudo subzy -targets healthifyme.com.txt --hide_fails
-sudo subzy -targets helium.com.txt --hide_fails
-sudo subzy -targets helium.systems.txt --hide_fails
-sudo subzy -targets hellosign.com.txt --hide_fails
-sudo subzy -targets hellowallet.com.txt --hide_fails
-sudo subzy -targets helloworks.com.txt --hide_fails
-sudo subzy -targets heytap.com.txt --hide_fails
-sudo subzy -targets heytapmobi.com.txt --hide_fails
-sudo subzy -targets hicloud.com.txt --hide_fails
-sudo subzy -targets highwebmedia.com.txt --hide_fails
-sudo subzy -targets highwinds.com.txt --hide_fails
-sudo subzy -targets hitmanpro.com.txt --hide_fails
-sudo subzy -targets hitmanpro.nl.txt --hide_fails
-sudo subzy -targets honestdollar.com.txt --hide_fails
-sudo subzy -targets hoteltonight-test.com.txt --hide_fails
-sudo subzy -targets hotornot.com.txt --hide_fails
-sudo subzy -targets howamistillhungover.com.txt --hide_fails
-sudo subzy -targets howdoikeepthekidsbusy.com.txt --hide_fails
-sudo subzy -targets howdoimakethisroadtripbetter.com.txt --hide_fails
-sudo subzy -targets hs-sites.com.txt --hide_fails
-sudo subzy -targets htc.com.txt --hide_fails
-sudo subzy -targets huaweicloud.com.txt --hide_fails
-sudo subzy -targets huawei.com.txt --hide_fails
-sudo subzy -targets hubapi.com.txt --hide_fails
-sudo subzy -targets hubspot.com.txt --hide_fails
-sudo subzy -targets hubspot.net.txt --hide_fails
-sudo subzy -targets huffingtonpost.ca.txt --hide_fails
-sudo subzy -targets huffingtonpost.com.au.txt --hide_fails
-sudo subzy -targets huffingtonpost.com.mx.txt --hide_fails
-sudo subzy -targets huffingtonpost.com.txt --hide_fails
-sudo subzy -targets huffingtonpost.co.uk.txt --hide_fails
-sudo subzy -targets huffingtonpost.co.za.txt --hide_fails
-sudo subzy -targets huffingtonpost.de.txt --hide_fails
-sudo subzy -targets huffingtonpost.es.txt --hide_fails
-sudo subzy -targets huffingtonpost.fr.txt --hide_fails
-sudo subzy -targets huffingtonpost.gr.txt --hide_fails
-sudo subzy -targets huffingtonpost.in.txt --hide_fails
-sudo subzy -targets huffingtonpost.it.txt --hide_fails
-sudo subzy -targets huffingtonpost.jp.txt --hide_fails
-sudo subzy -targets huffingtonpost.kr.txt --hide_fails
-sudo subzy -targets huffpo.net.txt --hide_fails
-sudo subzy -targets huffpostarabi.com.txt --hide_fails
-sudo subzy -targets huffpostbrasil.com.txt --hide_fails
-sudo subzy -targets huffpost.ca.txt --hide_fails
-sudo subzy -targets huffpost.com.au.txt --hide_fails
-sudo subzy -targets huffpost.com.mx.txt --hide_fails
-sudo subzy -targets huffpost.com.txt --hide_fails
-sudo subzy -targets huffpost.co.uk.txt --hide_fails
-sudo subzy -targets huffpost.co.za.txt --hide_fails
-sudo subzy -targets huffpost.de.txt --hide_fails
-sudo subzy -targets huffpost.es.txt --hide_fails
-sudo subzy -targets huffpost.fr.txt --hide_fails
-sudo subzy -targets huffpost.gr.txt --hide_fails
-sudo subzy -targets huffpost.in.txt --hide_fails
-sudo subzy -targets huffpost.it.txt --hide_fails
-sudo subzy -targets huffpost.jp.txt --hide_fails
-sudo subzy -targets huffpost.kr.txt --hide_fails
-sudo subzy -targets huffpostmaghreb.com.txt --hide_fails
-sudo subzy -targets huffpost.net.txt --hide_fails
-sudo subzy -targets humblebundle.com.txt --hide_fails
-sudo subzy -targets hyatt.com.txt --hide_fails
-sudo subzy -targets hybrid-analysis.com.txt --hide_fails
-sudo subzy -targets hydass.be.txt --hide_fails
-sudo subzy -targets hydraulics-group.com.txt --hide_fails
-sudo subzy -targets hyperledger.org.txt --hide_fails
-sudo subzy -targets iamcybersafe.org.txt --hide_fails
-sudo subzy -targets ibm.com.txt --hide_fails
-sudo subzy -targets ibops.net.txt --hide_fails
-sudo subzy -targets ibotta.com.txt --hide_fails
-sudo subzy -targets icq.com.txt --hide_fails
-sudo subzy -targets icq.net.txt --hide_fails
-sudo subzy -targets ifood.com.br.txt --hide_fails
-sudo subzy -targets igame.com.txt --hide_fails
-sudo subzy -targets igpayment.com.txt --hide_fails
-sudo subzy -targets ikarem.io.txt --hide_fails
-sudo subzy -targets imabandi.to.txt --hide_fails
-sudo subzy -targets imaginecurve.com.txt --hide_fails
-sudo subzy -targets imgur.com.txt --hide_fails
-sudo subzy -targets indeed.com.txt --hide_fails
-sudo subzy -targets infogram.com.txt --hide_fails
-sudo subzy -targets informatica.com.txt --hide_fails
-sudo subzy -targets ing.com.txt --hide_fails
-sudo subzy -targets ing.nl.txt --hide_fails
-sudo subzy -targets innocraft.cloud.txt --hide_fails
-sudo subzy -targets innogames.com.txt --hide_fails
-sudo subzy -targets innogames.de.txt --hide_fails
-sudo subzy -targets insolar.io.txt --hide_fails
-sudo subzy -targets instacart.com.txt --hide_fails
-sudo subzy -targets instagram.com.txt --hide_fails
-sudo subzy -targets interamerican.gr.txt --hide_fails
-sudo subzy -targets intercom.io.txt --hide_fails
-sudo subzy -targets internet.nl.txt --hide_fails
-sudo subzy -targets internet.org.txt --hide_fails
-sudo subzy -targets interpolis.nl.txt --hide_fails
-sudo subzy -targets intigriti.com.txt --hide_fails
-sudo subzy -targets investmentmojo.com.txt --hide_fails
-sudo subzy -targets investnext.com.txt --hide_fails
-sudo subzy -targets investnextdemo.co.txt --hide_fails
-sudo subzy -targets invisionapp.com.txt --hide_fails
-sudo subzy -targets irancell.ir.txt --hide_fails
-sudo subzy -targets irccloud-cdn.com.txt --hide_fails
-sudo subzy -targets irccloud.com.txt --hide_fails
-sudo subzy -targets isc2.org.txt --hide_fails
-sudo subzy -targets issa.website.txt --hide_fails
-sudo subzy -targets istarbucks.co.kr.txt --hide_fails
-sudo subzy -targets itslearning.com.txt --hide_fails
-sudo subzy -targets jamie3vkiwibfiwucd6vxijskbhpjdyajmzeor4mc4i7yopvpo4p7cyd.onion.txt --hide_fails
-sudo subzy -targets jamiewebgbelqfno.onion.txt --hide_fails
-sudo subzy -targets jamieweb.net.txt --hide_fails
-sudo subzy -targets jaybirdsport.com.txt --hide_fails
-sudo subzy -targets jimdo.com.txt --hide_fails
-sudo subzy -targets jimdofree.com.txt --hide_fails
-sudo subzy -targets jimdo-platform.net.txt --hide_fails
-sudo subzy -targets jimdosite.com.txt --hide_fails
-sudo subzy -targets jitsi.org.txt --hide_fails
-sudo subzy -targets jit.si.txt --hide_fails
-sudo subzy -targets jobapi.io.txt --hide_fails
-sudo subzy -targets jobapi.net.txt --hide_fails
-sudo subzy -targets jooki.rocks.txt --hide_fails
-sudo subzy -targets jupiterone.io.txt --hide_fails
-sudo subzy -targets justaddspotify.com.txt --hide_fails
-sudo subzy -targets k8s.io.txt --hide_fails
-sudo subzy -targets kali.org.txt --hide_fails
-sudo subzy -targets kartpay.com.txt --hide_fails
-sudo subzy -targets k-classic-mobil.de.txt --hide_fails
-sudo subzy -targets keepersecurity.com.txt --hide_fails
-sudo subzy -targets keepersecurity.eu.txt --hide_fails
-sudo subzy -targets keke.cn.txt --hide_fails
-sudo subzy -targets kennasecurity.com.txt --hide_fails
-sudo subzy -targets keybank.com.txt --hide_fails
-sudo subzy -targets key.com.txt --hide_fails
-sudo subzy -targets khanacademy.org.txt --hide_fails
-sudo subzy -targets kiwi.ki.txt --hide_fails
-sudo subzy -targets koho.app.txt --hide_fails
-sudo subzy -targets koho.ca.txt --hide_fails
-sudo subzy -targets kolikkopelit.com.txt --hide_fails
-sudo subzy -targets konylabs.capitalone.txt --hide_fails
-sudo subzy -targets kraken.com.txt --hide_fails
-sudo subzy -targets kubernetes.io.txt --hide_fails
-sudo subzy -targets labs-semrush.com.txt --hide_fails
-sudo subzy -targets lahitapiola.fi.txt --hide_fails
-sudo subzy -targets lahitapiola.mobile.txt --hide_fails
-sudo subzy -targets lahitapiolarahoitus.fi.txt --hide_fails
-sudo subzy -targets larksuite.com.txt --hide_fails
-sudo subzy -targets lastpass.com.txt --hide_fails
-sudo subzy -targets laurelroad.com.txt --hide_fails
-sudo subzy -targets lazada.co.id.txt --hide_fails
-sudo subzy -targets lazada.com.my.txt --hide_fails
-sudo subzy -targets lazada.com.ph.txt --hide_fails
-sudo subzy -targets lazada.com.txt --hide_fails
-sudo subzy -targets lazada.co.th.txt --hide_fails
-sudo subzy -targets lazada.sg.txt --hide_fails
-sudo subzy -targets lazada.vn.txt --hide_fails
-sudo subzy -targets learnscilla.com.txt --hide_fails
-sudo subzy -targets legalrobot.com.txt --hide_fails
-sudo subzy -targets legalrobot-test.com.txt --hide_fails
-sudo subzy -targets lemlist.com.txt --hide_fails
-sudo subzy -targets lendinghome.com.txt --hide_fails
-sudo subzy -targets letsbuild.com.txt --hide_fails
-sudo subzy -targets lhcapitalmanagement.com.txt --hide_fails
-sudo subzy -targets lhcapital-matrix.com.txt --hide_fails
-sudo subzy -targets lh-matrix.com.txt --hide_fails
-sudo subzy -targets libav.org.txt --hide_fails
-sudo subzy -targets liberapay.com.txt --hide_fails
-sudo subzy -targets liberapay.org.txt --hide_fails
-sudo subzy -targets lieferando.at.txt --hide_fails
-sudo subzy -targets lieferando.de.txt --hide_fails
-sudo subzy -targets lifeinvader.com.txt --hide_fails
-sudo subzy -targets lifeomic.com.txt --hide_fails
-sudo subzy -targets lifeomic.life.txt --hide_fails
-sudo subzy -targets liferisks.com.txt --hide_fails
-sudo subzy -targets lime.bike.txt --hide_fails
-sudo subzy -targets limeinternal.com.txt --hide_fails
-sudo subzy -targets lincoln.com.txt --hide_fails
-sudo subzy -targets line-apps.com.txt --hide_fails
-sudo subzy -targets line.me.txt --hide_fails
-sudo subzy -targets liquidweb.com.txt --hide_fails
-sudo subzy -targets live.com.txt --hide_fails
-sudo subzy -targets live.net.txt --hide_fails
-sudo subzy -targets liveplan.com.txt --hide_fails
-sudo subzy -targets livestream.com.txt --hide_fails
-sudo subzy -targets loanbuilder.com.txt --hide_fails
-sudo subzy -targets lob-assets.com.txt --hide_fails
-sudo subzy -targets lob.com.txt --hide_fails
-sudo subzy -targets localize.live.txt --hide_fails
-sudo subzy -targets localizestaging.com.txt --hide_fails
-sudo subzy -targets logi.com.txt --hide_fails
-sudo subzy -targets login.gov.txt --hide_fails
-sudo subzy -targets logitechauthorization.com.txt --hide_fails
-sudo subzy -targets logitech-channel-marketing.com.txt --hide_fails
-sudo subzy -targets logitech.com.cn.txt --hide_fails
-sudo subzy -targets logitech.com.txt --hide_fails
-sudo subzy -targets logitechg.com.txt --hide_fails
-sudo subzy -targets logitech.io.txt --hide_fails
-sudo subzy -targets logitechmusic.com.txt --hide_fails
-sudo subzy -targets logitech-partner.com.txt --hide_fails
-sudo subzy -targets logitechstore.com.br.txt --hide_fails
-sudo subzy -targets lonestarcell.com.txt --hide_fails
-sudo subzy -targets lootdog.io.txt --hide_fails
-sudo subzy -targets luckey.app.txt --hide_fails
-sudo subzy -targets luckey.fr.txt --hide_fails
-sudo subzy -targets luckeyhomes.com.txt --hide_fails
-sudo subzy -targets luckey.in.txt --hide_fails
-sudo subzy -targets luckey.partners.txt --hide_fails
-sudo subzy -targets lukwerks.com.txt --hide_fails
-sudo subzy -targets luma.co.uk.txt --hide_fails
-sudo subzy -targets luxuryretreats.com.txt --hide_fails
-sudo subzy -targets lync.com.txt --hide_fails
-sudo subzy -targets lyst.com.txt --hide_fails
-sudo subzy -targets lyst.co.txt --hide_fails
-sudo subzy -targets lystit.com.txt --hide_fails
-sudo subzy -targets mackeeper.com.txt --hide_fails
-sudo subzy -targets magento.cloud.txt --hide_fails
-sudo subzy -targets magentocommerce.com.txt --hide_fails
-sudo subzy -targets magento.com.txt --hide_fails
-sudo subzy -targets magentolive.com.txt --hide_fails
-sudo subzy -targets magic.link.txt --hide_fails
-sudo subzy -targets magisto.com.txt --hide_fails
-sudo subzy -targets mailfoogae.appspot.com.txt --hide_fails
-sudo subzy -targets mailgun.com.txt --hide_fails
-sudo subzy -targets mailgun.net.txt --hide_fails
-sudo subzy -targets mailjet.com.txt --hide_fails
-sudo subzy -targets mail.ru.txt --hide_fails
-sudo subzy -targets makerdao.com.txt --hide_fails
-sudo subzy -targets makers.com.txt --hide_fails
-sudo subzy -targets mapbox.com.txt --hide_fails
-sudo subzy -targets mapmyfitness.com.txt --hide_fails
-sudo subzy -targets mapmyride.com.txt --hide_fails
-sudo subzy -targets mapmyrun.com.txt --hide_fails
-sudo subzy -targets mapmywalk.com.txt --hide_fails
-sudo subzy -targets marcus.com.txt --hide_fails
-sudo subzy -targets marcus.co.uk.txt --hide_fails
-sudo subzy -targets mariacasino.com.txt --hide_fails
-sudo subzy -targets mariadb.org.txt --hide_fails
-sudo subzy -targets marriott.com.txt --hide_fails
-sudo subzy -targets masmexa.com.txt --hide_fails
-sudo subzy -targets mastercardbiz.ca.txt --hide_fails
-sudo subzy -targets mastercardbiz.com.txt --hide_fails
-sudo subzy -targets mastercard.ch.txt --hide_fails
-sudo subzy -targets mastercard.com.au.txt --hide_fails
-sudo subzy -targets mastercard.com.br.txt --hide_fails
-sudo subzy -targets mastercard.com.txt --hide_fails
-sudo subzy -targets mastercard.co.za.txt --hide_fails
-sudo subzy -targets mastercard-lounge.cz.txt --hide_fails
-sudo subzy -targets mastercard.nl.txt --hide_fails
-sudo subzy -targets mastercard.ru.txt --hide_fails
-sudo subzy -targets mastercard.us.txt --hide_fails
-sudo subzy -targets matomo.org.txt --hide_fails
-sudo subzy -targets maven.org.txt --hide_fails
-sudo subzy -targets maxcdn.com.txt --hide_fails
-sudo subzy -targets maxcdn.net.txt --hide_fails
-sudo subzy -targets maximum.nl.txt --hide_fails
-sudo subzy -targets mediamarkt.at.txt --hide_fails
-sudo subzy -targets mediamarkt.be.txt --hide_fails
-sudo subzy -targets mediamarkt.ch.txt --hide_fails
-sudo subzy -targets mediamarkt.com.tr.txt --hide_fails
-sudo subzy -targets mediamarkt.de.txt --hide_fails
-sudo subzy -targets mediamarkt.es.txt --hide_fails
-sudo subzy -targets mediamarkt.gr.txt --hide_fails
-sudo subzy -targets mediamarkt.hu.txt --hide_fails
-sudo subzy -targets mediamarkt.nl.txt --hide_fails
-sudo subzy -targets mediamarkt.pl.txt --hide_fails
-sudo subzy -targets mediamarkt.pt.txt --hide_fails
-sudo subzy -targets mediamarkt.se.txt --hide_fails
-sudo subzy -targets mediaworld.it.txt --hide_fails
-sudo subzy -targets mendix.com.txt --hide_fails
-sudo subzy -targets meraki.com.txt --hide_fails
-sudo subzy -targets messenger.com.txt --hide_fails
-sudo subzy -targets mi.com.txt --hide_fails
-sudo subzy -targets microsoft.com.txt --hide_fails
-sudo subzy -targets mimusica2019.com.txt --hide_fails
-sudo subzy -targets mini.de.txt --hide_fails
-sudo subzy -targets mission-electric.in.txt --hide_fails
-sudo subzy -targets miui.com.txt --hide_fails
-sudo subzy -targets miuinsights.com.txt --hide_fails
-sudo subzy -targets miwifi.com.txt --hide_fails
-sudo subzy -targets mobile.prod.txt --hide_fails
-sudo subzy -targets mobisystems.office.txt --hide_fails
-sudo subzy -targets mojave.net.txt --hide_fails
-sudo subzy -targets monaco.mobile.txt --hide_fails
-sudo subzy -targets mona.co.txt --hide_fails
-sudo subzy -targets moneybird.com.txt --hide_fails
-sudo subzy -targets moneybirdstorage.com.txt --hide_fails
-sudo subzy -targets moneytree.jp.txt --hide_fails
-sudo subzy -targets mongodb.com.txt --hide_fails
-sudo subzy -targets mopub.com.txt --hide_fails
-sudo subzy -targets motorcraft.com.txt --hide_fails
-sudo subzy -targets moviecontentfilter.com.txt --hide_fails
-sudo subzy -targets mplans.com.txt --hide_fails
-sudo subzy -targets msbnexus.com.txt --hide_fails
-sudo subzy -targets msbpay.com.txt --hide_fails
-sudo subzy -targets msbselfserve.com.txt --hide_fails
-sudo subzy -targets mtn.bj.txt --hide_fails
-sudo subzy -targets mtnblog.co.za.txt --hide_fails
-sudo subzy -targets mtnbusiness.com.ng.txt --hide_fails
-sudo subzy -targets mtnbusiness.com.txt --hide_fails
-sudo subzy -targets mtncameroon.net.txt --hide_fails
-sudo subzy -targets mtn.ci.txt --hide_fails
-sudo subzy -targets mtn.cm.txt --hide_fails
-sudo subzy -targets mtn.com.af.txt --hide_fails
-sudo subzy -targets mtn.com.gh.txt --hide_fails
-sudo subzy -targets mtn.com.txt --hide_fails
-sudo subzy -targets mtn.com.ye.txt --hide_fails
-sudo subzy -targets mtncongo.net.txt --hide_fails
-sudo subzy -targets mtn.co.rw.txt --hide_fails
-sudo subzy -targets mtn.co.sz.txt --hide_fails
-sudo subzy -targets mtn.co.ug.txt --hide_fails
-sudo subzy -targets mtn.co.za.txt --hide_fails
-sudo subzy -targets mtnfootball.com.txt --hide_fails
-sudo subzy -targets mtngbissau.com.txt --hide_fails
-sudo subzy -targets mtnonline.com.txt --hide_fails
-sudo subzy -targets mtnplay.co.za.txt --hide_fails
-sudo subzy -targets mtnplay.co.zm.txt --hide_fails
-sudo subzy -targets mtn.sd.txt --hide_fails
-sudo subzy -targets mtnselfcare.co.zm.txt --hide_fails
-sudo subzy -targets mtnzakhele.co.za.txt --hide_fails
-sudo subzy -targets mtnzambia.co.zm.txt --hide_fails
-sudo subzy -targets mtn.zm.txt --hide_fails
-sudo subzy -targets muscache.com.txt --hide_fails
-sudo subzy -targets muuselabs.com.txt --hide_fails
-sudo subzy -targets muz.li.txt --hide_fails
-sudo subzy -targets myastaro.com.txt --hide_fails
-sudo subzy -targets my.com.txt --hide_fails
-sudo subzy -targets mycontactual.com.txt --hide_fails
-sudo subzy -targets myfitnesspal.com.txt --hide_fails
-sudo subzy -targets my.games.txt --hide_fails
-sudo subzy -targets myharmony.com.txt --hide_fails
-sudo subzy -targets myndr.net.txt --hide_fails
-sudo subzy -targets myndr.nl.txt --hide_fails
-sudo subzy -targets myntra.com.txt --hide_fails
-sudo subzy -targets myoas.com.txt --hide_fails
-sudo subzy -targets myomnipod.com.txt --hide_fails
-sudo subzy -targets myoppo.com.txt --hide_fails
-sudo subzy -targets myseek.xyz.txt --hide_fails
-sudo subzy -targets myshopify.com.txt --hide_fails
-sudo subzy -targets mysqueezebox.com.txt --hide_fails
-sudo subzy -targets mystarbucks.kr.txt --hide_fails
-sudo subzy -targets myteksi.com.txt --hide_fails
-sudo subzy -targets myteksi.net.txt --hide_fails
-sudo subzy -targets n0c.com.txt --hide_fails
-sudo subzy -targets naspers.co.in.txt --hide_fails
-sudo subzy -targets naspers.com.txt --hide_fails
-sudo subzy -targets naspers.co.txt --hide_fails
-sudo subzy -targets naspers.fr.txt --hide_fails
-sudo subzy -targets naspers.us.txt --hide_fails
-sudo subzy -targets naspersventures.com.txt --hide_fails
-sudo subzy -targets natur.com.txt --hide_fails
-sudo subzy -targets naver.jp.txt --hide_fails
-sudo subzy -targets navient.com.txt --hide_fails
-sudo subzy -targets navirefi.com.txt --hide_fails
-sudo subzy -targets ncsc.gov.uk.txt --hide_fails
-sudo subzy -targets nearme.com.cn.txt --hide_fails
-sudo subzy -targets netflix.com.txt --hide_fails
-sudo subzy -targets netgear.com.txt --hide_fails
-sudo subzy -targets nettokom.de.txt --hide_fails
-sudo subzy -targets network-auth.com.txt --hide_fails
-sudo subzy -targets netzclub.net.txt --hide_fails
-sudo subzy -targets newrelic.com.txt --hide_fails
-sudo subzy -targets nextcloud.com.txt --hide_fails
-sudo subzy -targets nextcloud.talk.txt --hide_fails
-sudo subzy -targets nextiva.com.txt --hide_fails
-sudo subzy -targets nextos.com.txt --hide_fails
-sudo subzy -targets nflxext.com.txt --hide_fails
-sudo subzy -targets nflximg.net.txt --hide_fails
-sudo subzy -targets nflxso.net.txt --hide_fails
-sudo subzy -targets nflxvideo.net.txt --hide_fails
-sudo subzy -targets niche.co.txt --hide_fails
-sudo subzy -targets nike.com.txt --hide_fails
-sudo subzy -targets nike.net.txt --hide_fails
-sudo subzy -targets niland.io.txt --hide_fails
-sudo subzy -targets ninemusesfestival.com.txt --hide_fails
-sudo subzy -targets nokia.com.txt --hide_fails
-sudo subzy -targets no-minimums.com.au.txt --hide_fails
-sudo subzy -targets nordvpn.com.txt --hide_fails
-sudo subzy -targets norma-mobil.de.txt --hide_fails
-sudo subzy -targets nowait.com.txt --hide_fails
-sudo subzy -targets now.systems.txt --hide_fails
-sudo subzy -targets nozbe.com.txt --hide_fails
-sudo subzy -targets nubank.com.br.txt --hide_fails
-sudo subzy -targets nutanix.com.txt --hide_fails
-sudo subzy -targets o2business.de.txt --hide_fails
-sudo subzy -targets o2.com.txt --hide_fails
-sudo subzy -targets o2.de.txt --hide_fails
-sudo subzy -targets o2online.de.txt --hide_fails
-sudo subzy -targets o2service.de.txt --hide_fails
-sudo subzy -targets o2spin.de.txt --hide_fails
-sudo subzy -targets oasiscloud.io.txt --hide_fails
-sudo subzy -targets observu.com.txt --hide_fails
-sudo subzy -targets oculus.com.txt --hide_fails
-sudo subzy -targets offensive-security.com.txt --hide_fails
-sudo subzy -targets office365.com.txt --hide_fails
-sudo subzy -targets office.com.txt --hide_fails
-sudo subzy -targets ok.me.txt --hide_fails
-sudo subzy -targets ok.ru.txt --hide_fails
-sudo subzy -targets oktapreview.com.txt --hide_fails
-sudo subzy -targets olacabs.com.txt --hide_fails
-sudo subzy -targets olaelectric.in.txt --hide_fails
-sudo subzy -targets ola.foundation.txt --hide_fails
-sudo subzy -targets ola.institute.txt --hide_fails
-sudo subzy -targets olamoney.com.txt --hide_fails
-sudo subzy -targets olaskilling.in.txt --hide_fails
-sudo subzy -targets omise.co.txt --hide_fails
-sudo subzy -targets omnicraftautoparts.com.txt --hide_fails
-sudo subzy -targets on2it.net.txt --hide_fails
-sudo subzy -targets onedrive.com.txt --hide_fails
-sudo subzy -targets oneplusbbs.com.txt --hide_fails
-sudo subzy -targets oneplus.cn.txt --hide_fails
-sudo subzy -targets oneplus.com.txt --hide_fails
-sudo subzy -targets oneplus.in.txt --hide_fails
-sudo subzy -targets oneplus.net.txt --hide_fails
-sudo subzy -targets onlia.ca.txt --hide_fails
-sudo subzy -targets openmage.org.txt --hide_fails
-sudo subzy -targets opentech.fund.txt --hide_fails
-sudo subzy -targets open-xchange.com.txt --hide_fails
-sudo subzy -targets oppo.cn.txt --hide_fails
-sudo subzy -targets oppo.com.txt --hide_fails
-sudo subzy -targets oppoer.me.txt --hide_fails
-sudo subzy -targets oppofind.com.txt --hide_fails
-sudo subzy -targets oppomobile.com.txt --hide_fails
-sudo subzy -targets oppopay.com.txt --hide_fails
-sudo subzy -targets opposhop.cn.txt --hide_fails
-sudo subzy -targets opsgeni.us.txt --hide_fails
-sudo subzy -targets optimizely.com.txt --hide_fails
-sudo subzy -targets orionlabs.io.txt --hide_fails
-sudo subzy -targets oroinc.com.txt --hide_fails
-sudo subzy -targets ortelmobile.de.txt --hide_fails
-sudo subzy -targets Out_file.txt --hide_fails
-sudo subzy -targets outfra.xyz.txt --hide_fails
-sudo subzy -targets outpost.co.txt --hide_fails
-sudo subzy -targets overstock.com.txt --hide_fails
-sudo subzy -targets oyorooms.com.txt --hide_fails
-sudo subzy -targets ozon.ru.txt --hide_fails
-sudo subzy -targets packet8.net.txt --hide_fails
-sudo subzy -targets paddypower.com.txt --hide_fails
-sudo subzy -targets paddypower.it.txt --hide_fails
-sudo subzy -targets paloalto.com.txt --hide_fails
-sudo subzy -targets pandao.ru.txt --hide_fails
-sudo subzy -targets pantheon.io.txt --hide_fails
-sudo subzy -targets paradex.io.txt --hide_fails
-sudo subzy -targets parcast.com.txt --hide_fails
-sudo subzy -targets paribus.co.txt --hide_fails
-sudo subzy -targets parity.io.txt --hide_fails
-sudo subzy -targets parrot.sh.txt --hide_fails
-sudo subzy -targets passit.io.txt --hide_fails
-sudo subzy -targets paydiant.com.txt --hide_fails
-sudo subzy -targets paypal.com.txt --hide_fails
-sudo subzy -targets paypal.here.txt --hide_fails
-sudo subzy -targets paypal.me.txt --hide_fails
-sudo subzy -targets paypalobjects.com.txt --hide_fails
-sudo subzy -targets paytmbank.com.txt --hide_fails
-sudo subzy -targets paytm.ca.txt --hide_fails
-sudo subzy -targets paytm.com.txt --hide_fails
-sudo subzy -targets paytmfirstgames.com.txt --hide_fails
-sudo subzy -targets paytm.in.txt --hide_fails
-sudo subzy -targets paytmlabs.com.txt --hide_fails
-sudo subzy -targets paytmmall.com.txt --hide_fails
-sudo subzy -targets paytmmoney.com.txt --hide_fails
-sudo subzy -targets pcapcloud.com.txt --hide_fails
-sudo subzy -targets periscope.tv.txt --hide_fails
-sudo subzy -targets pggm.nl.txt --hide_fails
-sudo subzy -targets phished.be.txt --hide_fails
-sudo subzy -targets picsart.studio.txt --hide_fails
-sudo subzy -targets pingone.com.txt --hide_fails
-sudo subzy -targets pinion.gg.txt --hide_fails
-sudo subzy -targets pinterest.com.txt --hide_fails
-sudo subzy -targets pixiv.net.txt --hide_fails
-sudo subzy -targets plaid.com.txt --hide_fails
-sudo subzy -targets planethoster.com.txt --hide_fails
-sudo subzy -targets planethoster.net.txt --hide_fails
-sudo subzy -targets playartifact.com.txt --hide_fails
-sudo subzy -targets playmaster.gg.txt --hide_fails
-sudo subzy -targets play-portraits.com.txt --hide_fails
-sudo subzy -targets playstation.com.txt --hide_fails
-sudo subzy -targets playstation.net.txt --hide_fails
-sudo subzy -targets playtech.com.txt --hide_fails
-sudo subzy -targets poddamnthatsfunny.com.txt --hide_fails
-sudo subzy -targets poddercentral.com.txt --hide_fails
-sudo subzy -targets polymail.app.txt --hide_fails
-sudo subzy -targets polymail.io.txt --hide_fails
-sudo subzy -targets pon-cat.com.txt --hide_fails
-sudo subzy -targets pornhub.com.txt --hide_fails
-sudo subzy -targets pornhubpremium.com.txt --hide_fails
-sudo subzy -targets portofantwerp.com.txt --hide_fails
-sudo subzy -targets portswigger.net.txt --hide_fails
-sudo subzy -targets postmates.com.txt --hide_fails
-sudo subzy -targets powerdns.com.txt --hide_fails
-sudo subzy -targets priceless.com.txt --hide_fails
-sudo subzy -targets pricelessspecials.nl.txt --hide_fails
-sudo subzy -targets pricelesssurprises.com.txt --hide_fails
-sudo subzy -targets priceline.com.txt --hide_fails
-sudo subzy -targets prolife.nl.txt --hide_fails
-sudo subzy -targets prospect.io.txt --hide_fails
-sudo subzy -targets prosperworks.com.txt --hide_fails
-sudo subzy -targets prosus.com.txt --hide_fails
-sudo subzy -targets protrade.com.txt --hide_fails
-sudo subzy -targets pscp.tv.txt --hide_fails
-sudo subzy -targets pubg.com.txt --hide_fails
-sudo subzy -targets pubgesports.com.txt --hide_fails
-sudo subzy -targets purevpn.com.txt --hide_fails
-sudo subzy -targets pxv.pay.txt --hide_fails
-sudo subzy -targets pyopenssl.org.txt --hide_fails
-sudo subzy -targets py.pl.txt --hide_fails
-sudo subzy -targets pyszne.pl.txt --hide_fails
-sudo subzy -targets qiwi.com.txt --hide_fails
-sudo subzy -targets qiwi.me.txt --hide_fails
-sudo subzy -targets qq.com.txt --hide_fails
-sudo subzy -targets quantopian.com.txt --hide_fails
-sudo subzy -targets quantshack.com.txt --hide_fails
-sudo subzy -targets quicklane.com.txt --hide_fails
-sudo subzy -targets qulture.rocks.txt --hide_fails
-sudo subzy -targets quora.com.txt --hide_fails
-sudo subzy -targets rabobank.com.txt --hide_fails
-sudo subzy -targets rabobank.nl.txt --hide_fails
-sudo subzy -targets railto.com.txt --hide_fails
-sudo subzy -targets range.co.txt --hide_fails
-sudo subzy -targets rapida.ru.txt --hide_fails
-sudo subzy -targets ratelimited.me.txt --hide_fails
-sudo subzy -targets rbk.mn.txt --hide_fails
-sudo subzy -targets rbkmoney.com.txt --hide_fails
-sudo subzy -targets rbk.money.txt --hide_fails
-sudo subzy -targets rbs.co.uk.txt --hide_fails
-sudo subzy -targets rbx.com.txt --hide_fails
-sudo subzy -targets realme.com.txt --hide_fails
-sudo subzy -targets realme.net.txt --hide_fails
-sudo subzy -targets realself.com.txt --hide_fails
-sudo subzy -targets recarga.com.txt --hide_fails
-sudo subzy -targets recargapay.com.br.txt --hide_fails
-sudo subzy -targets redbull.com.txt --hide_fails
-sudo subzy -targets redbullmediahouse.com.txt --hide_fails
-sudo subzy -targets redbullmusicacademy.com.txt --hide_fails
-sudo subzy -targets redoxengine.com.txt --hide_fails
-sudo subzy -targets redtube.com.txt --hide_fails
-sudo subzy -targets reflexion.net.txt --hide_fails
-sudo subzy -targets regiobank.nl.txt --hide_fails
-sudo subzy -targets relap.io.txt --hide_fails
-sudo subzy -targets remb.be.txt --hide_fails
-sudo subzy -targets rem-b.com.txt --hide_fails
-sudo subzy -targets rembconnect.be.txt --hide_fails
-sudo subzy -targets remitano.com.txt --hide_fails
-sudo subzy -targets replyify.com.txt --hide_fails
-sudo subzy -targets repostnetwork.com.txt --hide_fails
-sudo subzy -targets researchgate.net.txt --hide_fails
-sudo subzy -targets reset.tech.txt --hide_fails
-sudo subzy -targets reverse.it.txt --hide_fails
-sudo subzy -targets reviewvault.com.txt --hide_fails
-sudo subzy -targets rezserver.com.txt --hide_fails
-sudo subzy -targets rghost.net.txt --hide_fails
-sudo subzy -targets ribose.com.txt --hide_fails
-sudo subzy -targets rieker-shop.be.txt --hide_fails
-sudo subzy -targets ritzcarlton.com.txt --hide_fails
-sudo subzy -targets rivals.com.txt --hide_fails
-sudo subzy -targets rms.com.txt --hide_fails
-sudo subzy -targets robinhood.com.txt --hide_fails
-sudo subzy -targets roblox.com.txt --hide_fails
-sudo subzy -targets robomaster.com.txt --hide_fails
-sudo subzy -targets rocaton.com.txt --hide_fails
-sudo subzy -targets rocketbank.app.txt --hide_fails
-sudo subzy -targets rocketbank.ru.txt --hide_fails
-sudo subzy -targets rockset.com.txt --hide_fails
-sudo subzy -targets rockstargames.com.txt --hide_fails
-sudo subzy -targets rockstarnorth.com.txt --hide_fails
-sudo subzy -targets roku.com.txt --hide_fails
-sudo subzy -targets rsa.com.txt --hide_fails
-sudo subzy -targets rsaconference.com.txt --hide_fails
-sudo subzy -targets rsk.co.txt --hide_fails
-sudo subzy -targets rubygems.org.txt --hide_fails
-sudo subzy -targets ru.mw.txt --hide_fails
-sudo subzy -targets runpanther.com.txt --hide_fails
-sudo subzy -targets runpanther.io.txt --hide_fails
-sudo subzy -targets salesforce.com.txt --hide_fails
-sudo subzy -targets sameroom.io.txt --hide_fails
-sudo subzy -targets samsung.com.txt --hide_fails
-sudo subzy -targets saturn.at.txt --hide_fails
-sudo subzy -targets saturn.de.txt --hide_fails
-sudo subzy -targets saturn.lu.txt --hide_fails
-sudo subzy -targets savedroid.com.txt --hide_fails
-sudo subzy -targets scan.me.txt --hide_fails
-sudo subzy -targets schoenentorfs.be.txt --hide_fails
-sudo subzy -targets schoenentorfs.nl.txt --hide_fails
-sudo subzy -targets scoober.com.txt --hide_fails
-sudo subzy -targets scrapinghub.com.txt --hide_fails
-sudo subzy -targets search.gov.txt --hide_fails
-sudo subzy -targets secnews.gr.txt --hide_fails
-sudo subzy -targets secretgenius.com.txt --hide_fails
-sudo subzy -targets securegatewayaccess.com.txt --hide_fails
-sudo subzy -targets secureworks.com.txt --hide_fails
-sudo subzy -targets securitytxt --hide_fails.org.txt --hide_fails
-sudo subzy -targets seek.com.au.txt --hide_fails
-sudo subzy -targets seek.com.txt --hide_fails
-sudo subzy -targets segment.com.txt --hide_fails
-sudo subzy -targets segment.io.txt --hide_fails
-sudo subzy -targets semmle.com.txt --hide_fails
-sudo subzy -targets semmle.net.txt --hide_fails
-sudo subzy -targets semrush.com.txt --hide_fails
-sudo subzy -targets serverdensity.com.txt --hide_fails
-sudo subzy -targets sf.net.txt --hide_fails
-sudo subzy -targets sharepoint.com.txt --hide_fails
-sudo subzy -targets shipt.com.txt --hide_fails
-sudo subzy -targets shopclues.com.txt --hide_fails
-sudo subzy -targets shopify.com.txt --hide_fails
-sudo subzy -targets shopifykloud.com.txt --hide_fails
-sudo subzy -targets showmax.app.txt --hide_fails
-sudo subzy -targets showmax.com.txt --hide_fails
-sudo subzy -targets simfinity.de.txt --hide_fails
-sudo subzy -targets simple.com.txt --hide_fails
-sudo subzy -targets simplify.com.txt --hide_fails
-sudo subzy -targets simplymeasured.com.txt --hide_fails
-sudo subzy -targets singleplatform.com.txt --hide_fails
-sudo subzy -targets skinfra.xyz.txt --hide_fails
-sudo subzy -targets skype.com.txt --hide_fails
-sudo subzy -targets skypixel.com.txt --hide_fails
-sudo subzy -targets skyscanner.net.txt --hide_fails
-sudo subzy -targets slackb.com.txt --hide_fails
-sudo subzy -targets slack.com.txt --hide_fails
-sudo subzy -targets slimdevices.com.txt --hide_fails
-sudo subzy -targets slots.io.txt --hide_fails
-sudo subzy -targets smartcontract.com.txt --hide_fails
-sudo subzy -targets smartsheet.com.txt --hide_fails
-sudo subzy -targets smtp2go.com.txt --hide_fails
-sudo subzy -targets smule.com.txt --hide_fails
-sudo subzy -targets snapchat.com.txt --hide_fails
-sudo subzy -targets snappytv.com.txt --hide_fails
-sudo subzy -targets snsbank.nl.txt --hide_fails
-sudo subzy -targets sns.nl.txt --hide_fails
-sudo subzy -targets sol-data.com.txt --hide_fails
-sudo subzy -targets sonalytic.com.txt --hide_fails
-sudo subzy -targets sony.com.txt --hide_fails
-sudo subzy -targets sonyentertainmentnetwork.com.txt --hide_fails
-sudo subzy -targets sophos.com.txt --hide_fails
-sudo subzy -targets soundcloud.com.txt --hide_fails
-sudo subzy -targets soundcloudmail.com.txt --hide_fails
-sudo subzy -targets soundtrap.com.txt --hide_fails
-sudo subzy -targets sovest.ru.txt --hide_fails
-sudo subzy -targets spectacles.com.txt --hide_fails
-sudo subzy -targets spell.run.txt --hide_fails
-sudo subzy -targets spokeoaffiliates.com.txt --hide_fails
-sudo subzy -targets spokeo.com.txt --hide_fails
-sudo subzy -targets spotifyawards.com.txt --hide_fails
-sudo subzy -targets spotifycharts.com.txt --hide_fails
-sudo subzy -targets spotifycodes.com.txt --hide_fails
-sudo subzy -targets spotify.com.txt --hide_fails
-sudo subzy -targets spotify-countrymatch.com.txt --hide_fails
-sudo subzy -targets spotify.design.txt --hide_fails
-sudo subzy -targets spotify.dev.txt --hide_fails
-sudo subzy -targets spotify-everywhere.com.txt --hide_fails
-sudo subzy -targets spotifyforbrands.com.txt --hide_fails
-sudo subzy -targets spotifyforcreatives.com.txt --hide_fails
-sudo subzy -targets spotifyforpartners.com.txt --hide_fails
-sudo subzy -targets spotifyforpodcasterssummit.com.br.txt --hide_fails
-sudo subzy -targets spotifyforvendors.com.txt --hide_fails
-sudo subzy -targets spotifyjobs.com.txt --hide_fails
-sudo subzy -targets spotify-library.com.txt --hide_fails
-sudo subzy -targets spotify.net.txt --hide_fails
-sudo subzy -targets spotifyonstage.com.txt --hide_fails
-sudo subzy -targets spotifypodcastsummit.com.txt --hide_fails
-sudo subzy -targets spotifyresonate.com.txt --hide_fails
-sudo subzy -targets spotifysoundcheck.com.txt --hide_fails
-sudo subzy -targets spotifystories.com.txt --hide_fails
-sudo subzy -targets spotifyvault.com.txt --hide_fails
-sudo subzy -targets spotify.xxx.txt --hide_fails
-sudo subzy -targets sproutsocial.com.txt --hide_fails
-sudo subzy -targets square.com.txt --hide_fails
-sudo subzy -targets squareup.com.txt --hide_fails
-sudo subzy -targets stackpath.com.txt --hide_fails
-sudo subzy -targets stackpath.dev.txt --hide_fails
-sudo subzy -targets stackpath.net.txt --hide_fails
-sudo subzy -targets staging-airtableblocks.com.txt --hide_fails
-sudo subzy -targets standard.com.txt --hide_fails
-sudo subzy -targets stanford.edu.txt --hide_fails
-sudo subzy -targets starbucks.br.txt --hide_fails
-sudo subzy -targets starbucks.ca.txt --hide_fails
-sudo subzy -targets starbucks.cn.txt --hide_fails
-sudo subzy -targets starbucks.co.jp.txt --hide_fails
-sudo subzy -targets starbucks.com.br.txt --hide_fails
-sudo subzy -targets starbucks.com.cn.txt --hide_fails
-sudo subzy -targets starbucks.com.sg.txt --hide_fails
-sudo subzy -targets starbucks.com.txt --hide_fails
-sudo subzy -targets starbucks.co.uk.txt --hide_fails
-sudo subzy -targets starbucks.de.txt --hide_fails
-sudo subzy -targets starbucks.fr.txt --hide_fails
-sudo subzy -targets starbucks.jp.txt --hide_fails
-sudo subzy -targets starbucksreserve.com.txt --hide_fails
-sudo subzy -targets starleaf.com.txt --hide_fails
-sudo subzy -targets starlingbank.com.txt --hide_fails
-sudo subzy -targets starlink.com.txt --hide_fails
-sudo subzy -targets starlinkisp.net.txt --hide_fails
-sudo subzy -targets startuplistener.com.txt --hide_fails
-sudo subzy -targets startupschool.org.txt --hide_fails
-sudo subzy -targets starwoodhotels.com.txt --hide_fails
-sudo subzy -targets statuspage.io.txt --hide_fails
-sudo subzy -targets steamcommunity.com.txt --hide_fails
-sudo subzy -targets steamgames.com.txt --hide_fails
-sudo subzy -targets steampowered.com.txt --hide_fails
-sudo subzy -targets storspiller.com.txt --hide_fails
-sudo subzy -targets stox.com.txt --hide_fails
-sudo subzy -targets streak.com.txt --hide_fails
-sudo subzy -targets streamlabs.com.txt --hide_fails
-sudo subzy -targets stripo.email.txt --hide_fails
-sudo subzy -targets studiopress.blog.txt --hide_fails
-sudo subzy -targets studiopress.com.txt --hide_fails
-sudo subzy -targets supplieroasis.com.txt --hide_fails
-sudo subzy -targets surfright.nl.txt --hide_fails
-sudo subzy -targets surprisinglyawesome.com.txt --hide_fails
-sudo subzy -targets sway.com.txt --hide_fails
-sudo subzy -targets sweatco.app.txt --hide_fails
-sudo subzy -targets swiftcapital.com.txt --hide_fails
-sudo subzy -targets swiftfinancial.com.txt --hide_fails
-sudo subzy -targets swipely.com.txt --hide_fails
-sudo subzy -targets synack.com.txt --hide_fails
-sudo subzy -targets syntrus.com.txt --hide_fails
-sudo subzy -targets takealot.com.txt --hide_fails
-sudo subzy -targets takeaway.com.txt --hide_fails
-sudo subzy -targets tamtam.chat.txt --hide_fails
-sudo subzy -targets taobao.com.txt --hide_fails
-sudo subzy -targets tapayments.com.txt --hide_fails
-sudo subzy -targets tapiola.fi.txt --hide_fails
-sudo subzy -targets taptotokyo.com.txt --hide_fails
-sudo subzy -targets tasteofpremium.jp.txt --hide_fails
-sudo subzy -targets teambeyond.net.txt --hide_fails
-sudo subzy -targets teamfortress.com.txt --hide_fails
-sudo subzy -targets teamoutpost.com.txt --hide_fails
-sudo subzy -targets teamstercardnow.com.txt --hide_fails
-sudo subzy -targets teavana.com.txt --hide_fails
-sudo subzy -targets techcrunch.com.txt --hide_fails
-sudo subzy -targets teleatlas.com.txt --hide_fails
-sudo subzy -targets telekom.com.txt --hide_fails
-sudo subzy -targets telekom.de.txt --hide_fails
-sudo subzy -targets telekom.net.txt --hide_fails
-sudo subzy -targets telenet.be.txt --hide_fails
-sudo subzy -targets telenethotspot.be.txt --hide_fails
-sudo subzy -targets tencent.com.txt --hide_fails
-sudo subzy -targets tenpay.com.txt --hide_fails
-sudo subzy -targets tesla.cn.txt --hide_fails
-sudo subzy -targets tesla.com.txt --hide_fails
-sudo subzy -targets teslamotors.com.txt --hide_fails
-sudo subzy -targets tesla.services.txt --hide_fails
-sudo subzy -targets test-socrata.com.txt --hide_fails
-sudo subzy -targets thecoalition.com.txt --hide_fails
-sudo subzy -targets theendlessweb.com.txt --hide_fails
-sudo subzy -targets thefacebook.com.txt --hide_fails
-sudo subzy -targets thenodbuysblack.com.txt --hide_fails
-sudo subzy -targets thesecrettovictory.com.txt --hide_fails
-sudo subzy -targets theunioncard.com.txt --hide_fails
-sudo subzy -targets thuisbezorgd.nl.txt --hide_fails
-sudo subzy -targets tiktok.com.txt --hide_fails
-sudo subzy -targets tiktokv.com.txt --hide_fails
-sudo subzy -targets timetoplayfair.com.txt --hide_fails
-sudo subzy -targets tkn.zone.txt --hide_fails
-sudo subzy -targets tmall.com.txt --hide_fails
-sudo subzy -targets t-mobile.cz.txt --hide_fails
-sudo subzy -targets tomtom.com.txt --hide_fails
-sudo subzy -targets tomtomgroup.com.txt --hide_fails
-sudo subzy -targets topcoder.com.txt --hide_fails
-sudo subzy -targets topechelon.com.txt --hide_fails
-sudo subzy -targets torfs.be.txt --hide_fails
-sudo subzy -targets touchincentive.com.txt --hide_fails
-sudo subzy -targets toursgds.com.txt --hide_fails
-sudo subzy -targets transferwise.com.txt --hide_fails
-sudo subzy -targets trello.com.txt --hide_fails
-sudo subzy -targets trello.services.txt --hide_fails
-sudo subzy -targets tribalwars.cash.txt --hide_fails
-sudo subzy -targets trint.com.txt --hide_fails
-sudo subzy -targets tripadvisor.com.txt --hide_fails
-sudo subzy -targets tripadvisormediamanager.com.txt --hide_fails
-sudo subzy -targets tripadvisorwifi.com.txt --hide_fails
-sudo subzy -targets tripit.com.txt --hide_fails
-sudo subzy -targets trustpilot.com.txt --hide_fails
-sudo subzy -targets trycourier.app.txt --hide_fails
-sudo subzy -targets trycourier.com.txt --hide_fails
-sudo subzy -targets t-systems.com.txt --hide_fails
-sudo subzy -targets tube8.com.txt --hide_fails
-sudo subzy -targets tube8.es.txt --hide_fails
-sudo subzy -targets tube8.fr.txt --hide_fails
-sudo subzy -targets turkei-sim.de.txt --hide_fails
-sudo subzy -targets tweakblogs.net.txt --hide_fails
-sudo subzy -targets tweakers.net.txt --hide_fails
-sudo subzy -targets tweakimg.net.txt --hide_fails
-sudo subzy -targets twilio.com.txt --hide_fails
-sudo subzy -targets twimg.com.txt --hide_fails
-sudo subzy -targets twitter.com.txt --hide_fails
-sudo subzy -targets twitterflightschool.com.txt --hide_fails
-sudo subzy -targets txmblr.com.txt --hide_fails
-sudo subzy -targets ua.com.txt --hide_fails
-sudo subzy -targets uber.com.txt --hide_fails
-sudo subzy -targets ubnt.com.txt --hide_fails
-sudo subzy -targets ucverse.com.txt --hide_fails
-sudo subzy -targets udache.com.txt --hide_fails
-sudo subzy -targets udemy.com.txt --hide_fails
-sudo subzy -targets udimg.com.txt --hide_fails
-sudo subzy -targets ud.wtf.txt --hide_fails
-sudo subzy -targets uesmartradio.com.txt --hide_fails
-sudo subzy -targets ui.com.txt --hide_fails
-sudo subzy -targets ukcapitalone.capitalone.txt --hide_fails
-sudo subzy -targets ultimateears.com.txt --hide_fails
-sudo subzy -targets ultimateearsuniversity.com.txt --hide_fails
-sudo subzy -targets umblr.com.txt --hide_fails
-sudo subzy -targets umbraco.com.txt --hide_fails
-sudo subzy -targets underarmour.com.txt --hide_fails
-sudo subzy -targets underarmour.co.uk.txt --hide_fails
-sudo subzy -targets unibet.casino.txt --hide_fails
-sudo subzy -targets unibet.com.txt --hide_fails
-sudo subzy -targets unikoingold.com.txt --hide_fails
-sudo subzy -targets unikrn.com.txt --hide_fails
-sudo subzy -targets unilever.com.txt --hide_fails
-sudo subzy -targets union.sk.txt --hide_fails
-sudo subzy -targets unitedincome.com.txt --hide_fails
-sudo subzy -targets upgrade.com.txt --hide_fails
-sudo subzy -targets uphabit.com.txt --hide_fails
-sudo subzy -targets upserve.com.txt --hide_fails
-sudo subzy -targets upwork.com.txt --hide_fails
-sudo subzy -targets urbanairship.com.txt --hide_fails
-sudo subzy -targets urbandictionary.biz.txt --hide_fails
-sudo subzy -targets urbandictionary.blog.txt --hide_fails
-sudo subzy -targets urbandictionary.com.txt --hide_fails
-sudo subzy -targets urbandictionary.net.txt --hide_fails
-sudo subzy -targets urbandictionary.org.txt --hide_fails
-sudo subzy -targets urbandictionary.store.txt --hide_fails
-sudo subzy -targets urbandoor.com.txt --hide_fails
-sudo subzy -targets urbanup.com.txt --hide_fails
-sudo subzy -targets usaa.com.txt --hide_fails
-sudo subzy -targets usa.gov.txt --hide_fails
-sudo subzy -targets usejewel.com.txt --hide_fails
-sudo subzy -targets valvesoftware.com.txt --hide_fails
-sudo subzy -targets vanillacommunities.com.txt --hide_fails
-sudo subzy -targets vanilladevelopment.com.txt --hide_fails
-sudo subzy -targets vanillaforums.com.txt --hide_fails
-sudo subzy -targets vanillastaging.com.txt --hide_fails
-sudo subzy -targets vclogitech.com.txt --hide_fails
-sudo subzy -targets venmo.com.txt --hide_fails
-sudo subzy -targets vercel.com.txt --hide_fails
-sudo subzy -targets vercel.sh.txt --hide_fails
-sudo subzy -targets vhx.tv.txt --hide_fails
-sudo subzy -targets viator.com.txt --hide_fails
-sudo subzy -targets videolan.org.txt --hide_fails
-sudo subzy -targets vimeo.com.txt --hide_fails
-sudo subzy -targets vimeopro.com.txt --hide_fails
-sudo subzy -targets vine.co.txt --hide_fails
-sudo subzy -targets visma.com.txt --hide_fails
-sudo subzy -targets vismaonline.com.txt --hide_fails
-sudo subzy -targets vivy.com.txt --hide_fails
-sudo subzy -targets vk.cc.txt --hide_fails
-sudo subzy -targets vk.com.txt --hide_fails
-sudo subzy -targets vk.im.txt --hide_fails
-sudo subzy -targets vk.link.txt --hide_fails
-sudo subzy -targets vk.me.txt --hide_fails
-sudo subzy -targets vkpay.io.txt --hide_fails
-sudo subzy -targets vmall.com.txt --hide_fails
-sudo subzy -targets vonage.com.txt --hide_fails
-sudo subzy -targets vote.gov.txt --hide_fails
-sudo subzy -targets vroid.com.txt --hide_fails
-sudo subzy -targets vseapteki.ru.txt --hide_fails
-sudo subzy -targets vulnerbug.com.txt --hide_fails
-sudo subzy -targets wanyol.com.txt --hide_fails
-sudo subzy -targets wavecell.com.txt --hide_fails
-sudo subzy -targets weblate.org.txt --hide_fails
-sudo subzy -targets web-security-academy.net.txt --hide_fails
-sudo subzy -targets wedbio.com.txt --hide_fails
-sudo subzy -targets weiyun.com.txt --hide_fails
-sudo subzy -targets wellsfargo.com.txt --hide_fails
-sudo subzy -targets werkenbijbakertilly.nl.txt --hide_fails
-sudo subzy -targets werkenbijdefensie.nl.txt --hide_fails
-sudo subzy -targets werkenbijderet.nl.txt --hide_fails
-sudo subzy -targets westernunion.at.txt --hide_fails
-sudo subzy -targets westernunionbank.com.txt --hide_fails
-sudo subzy -targets westernunion.be.txt --hide_fails
-sudo subzy -targets westernunion.ca.txt --hide_fails
-sudo subzy -targets westernunion.ch.txt --hide_fails
-sudo subzy -targets westernunion.com.au.txt --hide_fails
-sudo subzy -targets westernunion.com.txt --hide_fails
-sudo subzy -targets westernunion.co.nz.txt --hide_fails
-sudo subzy -targets westernunion.co.uk.txt --hide_fails
-sudo subzy -targets westernunion.de.txt --hide_fails
-sudo subzy -targets westernunion.dk.txt --hide_fails
-sudo subzy -targets westernunion.ee.txt --hide_fails
-sudo subzy -targets westernunion.es.txt --hide_fails
-sudo subzy -targets westernunion.fi.txt --hide_fails
-sudo subzy -targets westernunion.fr.txt --hide_fails
-sudo subzy -targets westernunion.gr.txt --hide_fails
-sudo subzy -targets westernunion.ie.txt --hide_fails
-sudo subzy -targets westernunion.it.txt --hide_fails
-sudo subzy -targets westernunion.lu.txt --hide_fails
-sudo subzy -targets westernunion.nl.txt --hide_fails
-sudo subzy -targets westernunion.no.txt --hide_fails
-sudo subzy -targets westernunion.pl.txt --hide_fails
-sudo subzy -targets westernunion.pt.txt --hide_fails
-sudo subzy -targets westernunion.se.txt --hide_fails
-sudo subzy -targets wewriteyour.report.txt --hide_fails
-sudo subzy -targets whatisapushplaylist.com.txt --hide_fails
-sudo subzy -targets whatsapp.com.txt --hide_fails
-sudo subzy -targets whatsapp.net.txt --hide_fails
-sudo subzy -targets whatsappsim.de.txt --hide_fails
-sudo subzy -targets whatsgoingonintheworld.com.txt --hide_fails
-sudo subzy -targets whatsthedealwithasmr.com.txt --hide_fails
-sudo subzy -targets whatswrongwithmysucculent.com.txt --hide_fails
-sudo subzy -targets whowebe.com.txt --hide_fails
-sudo subzy -targets whycantigettosleep.com.txt --hide_fails
-sudo subzy -targets wickr.com.txt --hide_fails
-sudo subzy -targets wikibuy.com.txt --hide_fails
-sudo subzy -targets winni.in.txt --hide_fails
-sudo subzy -targets withairbnb.com.txt --hide_fails
-sudo subzy -targets withspotify.com.txt --hide_fails
-sudo subzy -targets woonfonds.nl.txt --hide_fails
-sudo subzy -targets wordcamp.org.txt --hide_fails
-sudo subzy -targets wordpressfoundation.org.txt --hide_fails
-sudo subzy -targets wordpress.net.txt --hide_fails
-sudo subzy -targets wordpress.org.txt --hide_fails
-sudo subzy -targets workatastartup.com.txt --hide_fails
-sudo subzy -targets workbox.dk.txt --hide_fails
-sudo subzy -targets worklytics.co.txt --hide_fails
-sudo subzy -targets wpengine.com.txt --hide_fails
-sudo subzy -targets wpengine.io.txt --hide_fails
-sudo subzy -targets wpesvc.net.txt --hide_fails
-sudo subzy -targets wuedge.com.txt --hide_fails
-sudo subzy -targets xfinity.com.txt --hide_fails
-sudo subzy -targets xiaojukeji.com.txt --hide_fails
-sudo subzy -targets xiaomi.com.txt --hide_fails
-sudo subzy -targets xiaomi.market.txt --hide_fails
-sudo subzy -targets xiaomiyoupin.com.txt --hide_fails
-sudo subzy -targets xoom.app.txt --hide_fails
-sudo subzy -targets xoom.com.txt --hide_fails
-sudo subzy -targets xvservice.net.txt --hide_fails
-sudo subzy -targets yahooapis.com.txt --hide_fails
-sudo subzy -targets yahoo.com.txt --hide_fails
-sudo subzy -targets yammer.com.txt --hide_fails
-sudo subzy -targets yatra.com.txt --hide_fails
-sudo subzy -targets ycombinator.com.txt --hide_fails
-sudo subzy -targets yelo.be.txt --hide_fails
-sudo subzy -targets yeloplay.be.txt --hide_fails
-sudo subzy -targets yelp.com.txt --hide_fails
-sudo subzy -targets yelpreservations.com.txt --hide_fails
-sudo subzy -targets yelp-support.com.txt --hide_fails
-sudo subzy -targets yelpwifi.com.txt --hide_fails
-sudo subzy -targets youla.ru.txt --hide_fails
-sudo subzy -targets youneedabudget.com.txt --hide_fails
-sudo subzy -targets yourdelivery.de.txt --hide_fails
-sudo subzy -targets youtube.com.txt --hide_fails
-sudo subzy -targets zakazaka.ru.txt --hide_fails
-sudo subzy -targets zaproxy.org.txt --hide_fails
-sudo subzy -targets zdev.net.txt --hide_fails
-sudo subzy -targets zeit-cdn.net.txt --hide_fails
-sudo subzy -targets zeit.sh.txt --hide_fails
-sudo subzy -targets zen.ly.txt --hide_fails
-sudo subzy -targets zilliqa.com.txt --hide_fails
-sudo subzy -targets zilverenkruis.nl.txt --hide_fails
-sudo subzy -targets znly.co.txt --hide_fails
-sudo subzy -targets zomatobook.com.txt --hide_fails
-sudo subzy -targets zomato.com.txt --hide_fails
-sudo subzy -targets zynbitdev.com.txt --hide_fails
-sudo subzy -targets zynga.com.txt --hide_fails
-sudo subzy -targets zyngagames.com.txt --hide_fails
+subzy -targets 1688.com.txt --hide_fails
+subzy -targets 18f.gov.txt --hide_fails
+subzy -targets 4cdn.org.txt --hide_fails
+subzy -targets 4chan.org.txt --hide_fails
+subzy -targets 8x8.com.txt --hide_fails
+subzy -targets 8x8.spot.txt --hide_fails
+subzy -targets 8x8.vc.txt --hide_fails
+subzy -targets 9lives.be.txt --hide_fails
+subzy -targets accengage.net.txt --hide_fails
+subzy -targets accountkit.com.txt --hide_fails
+subzy -targets achmea.com.au.txt --hide_fails
+subzy -targets achmea.nl.txt --hide_fails
+subzy -targets acorns.com.txt --hide_fails
+subzy -targets actify.nl.txt --hide_fails
+subzy -targets adafruit.com.txt --hide_fails
+subzy -targets adafruitdaily.com.txt --hide_fails
+subzy -targets aetkasmart.de.txt --hide_fails
+subzy -targets aips-internal.com.txt --hide_fails
+subzy -targets aips-services.com.txt --hide_fails
+subzy -targets airbnb.app.txt --hide_fails
+subzy -targets airbnb-aws.com.txt --hide_fails
+subzy -targets airbnbcitizen.com.txt --hide_fails
+subzy -targets airbnb.com.txt --hide_fails
+subzy -targets airmap.com.txt --hide_fails
+subzy -targets airship.com.txt --hide_fails
+subzy -targets airship.eu.txt --hide_fails
+subzy -targets airtable.com.txt --hide_fails
+subzy -targets aiven.io.txt --hide_fails
+subzy -targets alditalk-kundenbetreuung.de.txt --hide_fails
+subzy -targets algolia.com.txt --hide_fails
+subzy -targets algolianet.com.txt --hide_fails
+subzy -targets algolia.net.txt --hide_fails
+subzy -targets alibabacloud.com.txt --hide_fails
+subzy -targets alibaba.com.txt --hide_fails
+subzy -targets alibaba-inc.com.txt --hide_fails
+subzy -targets aliexpress.com.txt --hide_fails
+subzy -targets alimama.com.txt --hide_fails
+subzy -targets aliyun.com.txt --hide_fails
+subzy -targets aliyun-inc.com.txt --hide_fails
+subzy -targets allegrosandbox.pl.txt --hide_fails
+subzy -targets amazon.co.jp.txt --hide_fails
+subzy -targets amazon.com.txt --hide_fails
+subzy -targets amazon.co.uk.txt --hide_fails
+subzy -targets amazon.de.txt --hide_fails
+subzy -targets amazon.fr.txt --hide_fails
+subzy -targets amitree.com.txt --hide_fails
+subzy -targets am.ru.txt --hide_fails
+subzy -targets app.mobile.txt --hide_fails
+subzy -targets apptimize.com.txt --hide_fails
+subzy -targets apptimize.eu.txt --hide_fails
+subzy -targets apsis.com.txt --hide_fails
+subzy -targets areeba.com.gn.txt --hide_fails
+subzy -targets arkoselabs.com.txt --hide_fails
+subzy -targets arlo.com.txt --hide_fails
+subzy -targets asnbank.nl.txt --hide_fails
+subzy -targets astaro.at.txt --hide_fails
+subzy -targets astaro.ch.txt --hide_fails
+subzy -targets astaro.com.txt --hide_fails
+subzy -targets astaro.de.txt --hide_fails
+subzy -targets astaro.info.txt --hide_fails
+subzy -targets astaro.net.txt --hide_fails
+subzy -targets astaro.org.txt --hide_fails
+subzy -targets astrogaming.com.txt --hide_fails
+subzy -targets atairbnb.com.txt --hide_fails
+subzy -targets atlassian.com.txt --hide_fails
+subzy -targets atlassian.net.txt --hide_fails
+subzy -targets atspotify.com.txt --hide_fails
+subzy -targets att.com.txt --hide_fails
+subzy -targets auspost.com.au.txt --hide_fails
+subzy -targets authy.com.txt --hide_fails
+subzy -targets auvik.com.txt --hide_fails
+subzy -targets averoachmea.nl.txt --hide_fails
+subzy -targets avito.ru.txt --hide_fails
+subzy -targets ayco.com.txt --hide_fails
+subzy -targets ayyildiz.de.txt --hide_fails
+subzy -targets backblazeb2.com.txt --hide_fails
+subzy -targets backblaze.com.txt --hide_fails
+subzy -targets backstage.io.txt --hide_fails
+subzy -targets backtrack-linux.org.txt --hide_fails
+subzy -targets badoocdn.com.txt --hide_fails
+subzy -targets badoo.com.txt --hide_fails
+subzy -targets base.be.txt --hide_fails
+subzy -targets base.de.txt --hide_fails
+subzy -targets basicattentiontoken.org.txt --hide_fails
+subzy -targets bbpress.org.txt --hide_fails
+subzy -targets bentley.com.txt --hide_fails
+subzy -targets berush.com.txt --hide_fails
+subzy -targets betfair.com.txt --hide_fails
+subzy -targets betfair.es.txt --hide_fails
+subzy -targets betfair.exchange.txt --hide_fails
+subzy -targets betfair.it.txt --hide_fails
+subzy -targets betfair.ro.txt --hide_fails
+subzy -targets betfair.se.txt --hide_fails
+subzy -targets better.com.txt --hide_fails
+subzy -targets betterscience.org.txt --hide_fails
+subzy -targets bezcenneniespodzianki.pl.txt --hide_fails
+subzy -targets bigbank.ee.txt --hide_fails
+subzy -targets bigbank.eu.txt --hide_fails
+subzy -targets bigbank.fi.txt --hide_fails
+subzy -targets bigbank.lt.txt --hide_fails
+subzy -targets bigbank.lv.txt --hide_fails
+subzy -targets bimeanalytics.com.txt --hide_fails
+subzy -targets bime.io.txt --hide_fails
+subzy -targets binance.com.txt --hide_fails
+subzy -targets binance.co.ug.txt --hide_fails
+subzy -targets binance.je.txt --hide_fails
+subzy -targets binance.org.txt --hide_fails
+subzy -targets binance.sg.txt --hide_fails
+subzy -targets binance.us.txt --hide_fails
+subzy -targets binary.com.txt --hide_fails
+subzy -targets bingo.com.txt --hide_fails
+subzy -targets bitaccessbtm.com.txt --hide_fails
+subzy -targets bitdefender.com.txt --hide_fails
+subzy -targets bitdefender.net.txt --hide_fails
+subzy -targets bitdiscovery.com.txt --hide_fails
+subzy -targets bitgo.com.txt --hide_fails
+subzy -targets bitmex.com.txt --hide_fails
+subzy -targets bitmoji.com.txt --hide_fails
+subzy -targets bitstrips.com.txt --hide_fails
+subzy -targets bitwala.app.txt --hide_fails
+subzy -targets bitwala.com.txt --hide_fails
+subzy -targets bitwarden.com.txt --hide_fails
+subzy -targets blackhistoryisnow.com.txt --hide_fails
+subzy -targets blau.de.txt --hide_fails
+subzy -targets blauworld.de.txt --hide_fails
+subzy -targets blend.com.txt --hide_fails
+subzy -targets blendlabs.com.txt --hide_fails
+subzy -targets blgwonen.nl.txt --hide_fails
+subzy -targets blockchain.com.txt --hide_fails
+subzy -targets blockchain.info.txt --hide_fails
+subzy -targets blogger.com.txt --hide_fails
+subzy -targets bluejeans.com.txt --hide_fails
+subzy -targets bluesnap.com.txt --hide_fails
+subzy -targets bluetarp.com.txt --hide_fails
+subzy -targets bmw.de.txt --hide_fails
+subzy -targets bmw-motorrad.de.txt --hide_fails
+subzy -targets bokun.com.txt --hide_fails
+subzy -targets bolstr.com.txt --hide_fails
+subzy -targets bookingholdings.com.txt --hide_fails
+subzy -targets boomi.com.txt --hide_fails
+subzy -targets booth.pm.txt --hide_fails
+subzy -targets boozt.com.txt --hide_fails
+subzy -targets booztlet.com.txt --hide_fails
+subzy -targets bplans.com.txt --hide_fails
+subzy -targets braintree-api.com.txt --hide_fails
+subzy -targets braintreegateway.com.txt --hide_fails
+subzy -targets braintreepayments.com.txt --hide_fails
+subzy -targets braintree.tools.txt --hide_fails
+subzy -targets brave.com.txt --hide_fails
+subzy -targets breadcrumb.com.txt --hide_fails
+subzy -targets briefe.io.txt --hide_fails
+subzy -targets buddypress.org.txt --hide_fails
+subzy -targets buffer.com.txt --hide_fails
+subzy -targets bugbountyguide.com.txt --hide_fails
+subzy -targets bugcrowd.com.txt --hide_fails
+subzy -targets bugpoc.com.txt --hide_fails
+subzy -targets bugpoc.ninja.txt --hide_fails
+subzy -targets buildseries.com.txt --hide_fails
+subzy -targets builtbygirls.com.txt --hide_fails
+subzy -targets bunq.com.txt --hide_fails
+subzy -targets butlerfortrello.com.txt --hide_fails
+subzy -targets byairbnb.com.txt --hide_fails
+subzy -targets byspotify.com.txt --hide_fails
+subzy -targets byteoversea.com.txt --hide_fails
+subzy -targets cafebazaar.ir.txt --hide_fails
+subzy -targets caffeine.tv.txt --hide_fails
+subzy -targets cainbrothers.com.txt --hide_fails
+subzy -targets cainiao.com.txt --hide_fails
+subzy -targets callstats.io.txt --hide_fails
+subzy -targets canon.com.txt --hide_fails
+subzy -targets canva.cn.txt --hide_fails
+subzy -targets canva.com.txt --hide_fails
+subzy -targets capitalone360.com.txt --hide_fails
+subzy -targets capitalonebank.com.txt --hide_fails
+subzy -targets capitalonecards.com.txt --hide_fails
+subzy -targets capitalonecareers.co.uk.txt --hide_fails
+subzy -targets capitalone.ca.txt --hide_fails
+subzy -targets capitalone.com.txt --hide_fails
+subzy -targets capitalone.co.uk.txt --hide_fails
+subzy -targets capitalone.tz.txt --hide_fails
+subzy -targets cashier.ru.txt --hide_fails
+subzy -targets cash.me.txt --hide_fails
+subzy -targets casinohuone.com.txt --hide_fails
+subzy -targets casper.com.txt --hide_fails
+subzy -targets casper.tools.txt --hide_fails
+subzy -targets cbhq.net.txt --hide_fails
+subzy -targets centraalbeheer.nl.txt --hide_fails
+subzy -targets centrify.com.txt --hide_fails
+subzy -targets certsy.com.txt --hide_fails
+subzy -targets certsynonprod.com.txt --hide_fails
+subzy -targets cfptime.org.txt --hide_fails
+subzy -targets chain.link.txt --hide_fails
+subzy -targets challonge.com.txt --hide_fails
+subzy -targets chaturbate.com.txt --hide_fails
+subzy -targets checkpoint.com.txt --hide_fails
+subzy -targets cirrusinsight.com.txt --hide_fails
+subzy -targets cirruspath.com.txt --hide_fails
+subzy -targets cisco.com.txt --hide_fails
+subzy -targets citypossible.com.txt --hide_fails
+subzy -targets clario.co.txt --hide_fails
+subzy -targets claritymoney.com.txt --hide_fails
+subzy -targets clausestaging.com.txt --hide_fails
+subzy -targets clickup.com.txt --hide_fails
+subzy -targets clio.com.txt --hide_fails
+subzy -targets closetheplaygap.com.txt --hide_fails
+subzy -targets cloudflareaccess.com.txt --hide_fails
+subzy -targets cloudflare.com.txt --hide_fails
+subzy -targets cloudflareworkers.com.txt --hide_fails
+subzy -targets cloud.gov.txt --hide_fails
+subzy -targets cloudinary.com.txt --hide_fails
+subzy -targets cloudways.com.txt --hide_fails
+subzy -targets cobinhood.com.txt --hide_fails
+subzy -targets cobinhood.exchange.txt --hide_fails
+subzy -targets coda.io.txt --hide_fails
+subzy -targets codefi.network.txt --hide_fails
+subzy -targets code.gov.txt --hide_fails
+subzy -targets codeigniter.com.txt --hide_fails
+subzy -targets cognitiveperformer.com.txt --hide_fails
+subzy -targets coinbase.com.txt --hide_fails
+subzy -targets coinbase.pro.txt --hide_fails
+subzy -targets coloros.com.txt --hide_fails
+subzy -targets comcast.com.txt --hide_fails
+subzy -targets companyhub.com.txt --hide_fails
+subzy -targets connectis.com.txt --hide_fails
+subzy -targets constantcontact.com.txt --hide_fails
+subzy -targets contact-sys.com.txt --hide_fails
+subzy -targets converse.com.txt --hide_fails
+subzy -targets copper.com.txt --hide_fails
+subzy -targets counter-strike.net.txt --hide_fails
+subzy -targets coursera.org.txt --hide_fails
+subzy -targets c-point.be.txt --hide_fails
+subzy -targets crawlera.com.txt --hide_fails
+subzy -targets creditkarma.ca.txt --hide_fails
+subzy -targets creditkarma.com.txt --hide_fails
+subzy -targets criticalstack.com.txt --hide_fails
+subzy -targets crowdin.com.txt --hide_fails
+subzy -targets crowdstrike.com.txt --hide_fails
+subzy -targets crowdstrike.org.txt --hide_fails
+subzy -targets cruisecritic.com.txt --hide_fails
+subzy -targets crypto.com.txt --hide_fails
+subzy -targets cryptography.io.txt --hide_fails
+subzy -targets cryptojourney.com.txt --hide_fails
+subzy -targets ct0.app.txt --hide_fails
+subzy -targets curve.app.txt --hide_fails
+subzy -targets curve.com.txt --hide_fails
+subzy -targets cuv-prod.app.txt --hide_fails
+subzy -targets cuvva.com.txt --hide_fails
+subzy -targets cuvva.co.txt --hide_fails
+subzy -targets cyberoam.com.txt --hide_fails
+subzy -targets d2evh2mef3r450.cloudfront.net.txt --hide_fails
+subzy -targets dailymotionadvertising.com.txt --hide_fails
+subzy -targets dailymotion.com.txt --hide_fails
+subzy -targets dashlane.com.txt --hide_fails
+subzy -targets data.gov.txt --hide_fails
+subzy -targets datastax.com.txt --hide_fails
+subzy -targets d-cd.net.txt --hide_fails
+subzy -targets defriesland.nl.txt --hide_fails
+subzy -targets delight.im.txt --hide_fails
+subzy -targets deliveroo-data.io.txt --hide_fails
+subzy -targets deliveroo-data.net.txt --hide_fails
+subzy -targets deliveroo-data-test.io.txt --hide_fails
+subzy -targets deliveroo-streams.net.txt --hide_fails
+subzy -targets delivery-club.ru.txt --hide_fails
+subzy -targets dell.com.txt --hide_fails
+subzy -targets dellemc.com.txt --hide_fails
+subzy -targets delltechnologies.com.txt --hide_fails
+subzy -targets deribit.com.txt --hide_fails
+subzy -targets devmaximum.com.txt --hide_fails
+subzy -targets devolksbank.nl.txt --hide_fails
+subzy -targets didichuxing.com.txt --hide_fails
+subzy -targets didiglobal.com.txt --hide_fails
+subzy -targets didiyun.com.txt --hide_fails
+subzy -targets digitalocean.com.txt --hide_fails
+subzy -targets digitaloceanspaces.com.txt --hide_fails
+subzy -targets dingtalk.com.txt --hide_fails
+subzy -targets directly.com.txt --hide_fails
+subzy -targets discord.com.txt --hide_fails
+subzy -targets djelectro.me.txt --hide_fails
+subzy -targets djicdn.com.txt --hide_fails
+subzy -targets dji.com.txt --hide_fails
+subzy -targets dji.net.txt --hide_fails
+subzy -targets djiservice.org.txt --hide_fails
+subzy -targets djivideos.com.txt --hide_fails
+subzy -targets dmcdn.net.txt --hide_fails
+subzy -targets dm.gg.txt --hide_fails
+subzy -targets dnspod.cn.txt --hide_fails
+subzy -targets doaction.org.txt --hide_fails
+subzy -targets doesmydogmissme.com.txt --hide_fails
+subzy -targets donationalerts.com.txt --hide_fails
+subzy -targets donationalerts.ru.txt --hide_fails
+subzy -targets dota2.com.txt --hide_fails
+subzy -targets dovecot.org.txt --hide_fails
+subzy -targets drive2.ru.txt --hide_fails
+subzy -targets driveuconnect.com.txt --hide_fails
+subzy -targets driveuconnect.eu.txt --hide_fails
+subzy -targets dropbox.com.txt --hide_fails
+subzy -targets dropboxforum.com.txt --hide_fails
+subzy -targets duckduckgo.com.txt --hide_fails
+subzy -targets dxi.eu.txt --hide_fails
+subzy -targets dynoquant.com.txt --hide_fails
+subzy -targets easycontactnow.com.txt --hide_fails
+subzy -targets eccouncil.org.txt --hide_fails
+subzy -targets ecobee.com.txt --hide_fails
+subzy -targets edmodo.com.txt --hide_fails
+subzy -targets edoverflow.com.txt --hide_fails
+subzy -targets einfachprepaid.de.txt --hide_fails
+subzy -targets eleganthotels.com.txt --hide_fails
+subzy -targets elvenar.com.txt --hide_fails
+subzy -targets emc.com.txt --hide_fails
+subzy -targets endlcdn.site.txt --hide_fails
+subzy -targets endomondo.com.txt --hide_fails
+subzy -targets engadget.com.txt --hide_fails
+subzy -targets engelvoelkers.com.txt --hide_fails
+subzy -targets enspotify.com.txt --hide_fails
+subzy -targets eobot.com.txt --hide_fails
+subzy -targets equalizerproject.com.txt --hide_fails
+subzy -targets eslint.org.txt --hide_fails
+subzy -targets etsy.com.txt --hide_fails
+subzy -targets etsypayments.com.txt --hide_fails
+subzy -targets eurekosigorta.com.tr.txt --hide_fails
+subzy -targets eurocross.com.txt --hide_fails
+subzy -targets eventbrite.com.txt --hide_fails
+subzy -targets evernote.com.txt --hide_fails
+subzy -targets everynoise.com.txt --hide_fails
+subzy -targets every.org.txt --hide_fails
+subzy -targets evonik.com.txt --hide_fails
+subzy -targets exchangemarketplace.com.txt --hide_fails
+subzy -targets exodus.io.txt --hide_fails
+subzy -targets exploit-db.com.txt --hide_fails
+subzy -targets expressobutiolem.onion.txt --hide_fails
+subzy -targets expressvpn.com.txt --hide_fails
+subzy -targets extraordinariesonthemic.com.txt --hide_fails
+subzy -targets faa.st.txt --hide_fails
+subzy -targets facebook.com.txt --hide_fails
+subzy -targets fair.com.txt --hide_fails
+subzy -targets fair.engineering.txt --hide_fails
+subzy -targets falcon-sandbox.com.txt --hide_fails
+subzy -targets fanduel.com.txt --hide_fails
+subzy -targets fanduel.design.txt --hide_fails
+subzy -targets fb.com.txt --hide_fails
+subzy -targets fb.me.txt --hide_fails
+subzy -targets fbto.nl.txt --hide_fails
+subzy -targets fdbox.net.txt --hide_fails
+subzy -targets fedramp.gov.txt --hide_fails
+subzy -targets fig.co.txt --hide_fails
+subzy -targets files.com.txt --hide_fails
+subzy -targets filezilla-project.org.txt --hide_fails
+subzy -targets finra.org.txt --hide_fails
+subzy -targets first.org.txt --hide_fails
+subzy -targets fitbit.com.txt --hide_fails
+subzy -targets fitstar.com.txt --hide_fails
+subzy -targets flickr.com.txt --hide_fails
+subzy -targets flipkart.com.txt --hide_fails
+subzy -targets flocktory.com.txt --hide_fails
+subzy -targets fonic.de.txt --hide_fails
+subzy -targets fonic-mobile.de.txt --hide_fails
+subzy -targets ford.com.txt --hide_fails
+subzy -targets forecastapp.com.txt --hide_fails
+subzy -targets forescoutcloud.net.txt --hide_fails
+subzy -targets forescout.com.txt --hide_fails
+subzy -targets forgeofempires.com.txt --hide_fails
+subzy -targets fortmatic.com.txt --hide_fails
+subzy -targets foxycart.com.txt --hide_fails
+subzy -targets freebasics.com.txt --hide_fails
+subzy -targets freepeopledirectory.com.txt --hide_fails
+subzy -targets freshcaller.com.txt --hide_fails
+subzy -targets freshchat.com.txt --hide_fails
+subzy -targets freshconnect.io.txt --hide_fails
+subzy -targets freshdesk.com.txt --hide_fails
+subzy -targets freshmarketer.com.txt --hide_fails
+subzy -targets freshping.io.txt --hide_fails
+subzy -targets freshsales.io.txt --hide_fails
+subzy -targets freshservice.com.txt --hide_fails
+subzy -targets freshworks.com.txt --hide_fails
+subzy -targets fuzzing-project.org.txt --hide_fails
+subzy -targets fw-notify.net.txt --hide_fails
+subzy -targets gamepind.com.txt --hide_fails
+subzy -targets gcr.io.txt --hide_fails
+subzy -targets geistguest.com.txt --hide_fails
+subzy -targets genasys.tech.txt --hide_fails
+subzy -targets gener8ads.com.txt --hide_fails
+subzy -targets get8x8.com.txt --hide_fails
+subzy -targets getbambu.com.txt --hide_fails
+subzy -targets getharvest.com.txt --hide_fails
+subzy -targets getmoneytree.com.txt --hide_fails
+subzy -targets gilacorp.com.txt --hide_fails
+subzy -targets gimlet.design.txt --hide_fails
+subzy -targets gimletmedia.com.txt --hide_fails
+subzy -targets githubapp.com.txt --hide_fails
+subzy -targets github.com.txt --hide_fails
+subzy -targets github.net.txt --hide_fails
+subzy -targets gitlab.com.txt --hide_fails
+subzy -targets gitter.im.txt --hide_fails
+subzy -targets glassdoor.app.txt --hide_fails
+subzy -targets glassdoor.com.txt --hide_fails
+subzy -targets global.shop.txt --hide_fails
+subzy -targets gmelius.com.txt --hide_fails
+subzy -targets gnip.com.txt --hide_fails
+subzy -targets gojekapi.com.txt --hide_fails
+subzy -targets gojek.co.id.txt --hide_fails
+subzy -targets goldman.com.txt --hide_fails
+subzy -targets goldmansachs.com.txt --hide_fails
+subzy -targets goldmansachsindices.com.txt --hide_fails
+subzy -targets goodrx.com.txt --hide_fails
+subzy -targets google.com.txt --hide_fails
+subzy -targets grab.careers.txt --hide_fails
+subzy -targets grab.com.txt --hide_fails
+subzy -targets grab.co.txt --hide_fails
+subzy -targets grabpay.com.txt --hide_fails
+subzy -targets grabtaxi.com.txt --hide_fails
+subzy -targets grammarly.ai.txt --hide_fails
+subzy -targets grammarly.com.txt --hide_fails
+subzy -targets grammarly.io.txt --hide_fails
+subzy -targets grammarly.net.txt --hide_fails
+subzy -targets greenhouse.events.txt --hide_fails
+subzy -targets greenhouse.io.txt --hide_fails
+subzy -targets grepolis.com.txt --hide_fails
+subzy -targets grofers.com.txt --hide_fails
+subzy -targets growth.org.txt --hide_fails
+subzy -targets gsa.gov.txt --hide_fails
+subzy -targets gsam.com.txt --hide_fails
+subzy -targets gs.com.txt --hide_fails
+subzy -targets gspublishing.com.txt --hide_fails
+subzy -targets gsselect.com.txt --hide_fails
